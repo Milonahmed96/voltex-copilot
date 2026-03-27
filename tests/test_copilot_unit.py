@@ -47,7 +47,9 @@ def mock_copilot():
 
         # Mock embedding model
         mock_model = MagicMock()
-        mock_model.encode.return_value = [0.1] * 384
+        mock_embedding = MagicMock()
+        mock_embedding.tolist.return_value = [0.1] * 384
+        mock_model.encode.return_value = mock_embedding
         mock_st.return_value = mock_model
 
         # Mock ChromaDB collection
