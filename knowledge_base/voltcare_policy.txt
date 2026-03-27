@@ -1,0 +1,435 @@
+VOLTEX VOLTCARE — TERMS, CONDITIONS AND CUSTOMER GUIDE
+Voltex Retail Ltd | voltex.co.uk/voltcare-terms
+Version 4.7 | Effective 1 February 2026 | Replaces all previous versions
+Registered in England and Wales. Company No. 07341822.
+Regulated by the Financial Conduct Authority (FCA) for insurance distribution. FCA Ref: 789234.
+
+This document sets out everything you need to know about your VoltCare plan — what it covers,
+how to make a claim, and your rights. We've written it in plain English because we want you to
+understand exactly what you're getting. If anything is unclear, call us on 0333 400 7000 or
+visit any Voltex store and a colleague will explain it face to face.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PART 1 — WHAT IS VOLTCARE AND WHICH PLAN IS RIGHT FOR YOU
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+VoltCare is Voltex's own protection plan. It extends the cover you get from the manufacturer's
+standard warranty and, depending on which tier you choose, adds protection against accidental
+damage too. You can buy VoltCare at the time you purchase your product in store or online, or
+within 30 days of your purchase date.
+
+THREE TIERS, ONE FOR EVERY NEED
+
+VoltCare Essential — peace of mind for everyday breakdowns
+Covers mechanical and electrical faults that occur through normal use. If your product stops
+working because something inside it has failed, we'll repair or replace it.
+What it does NOT cover: accidental damage (drops, spills, cracks).
+Available on: all product categories sold by Voltex.
+Duration: 1 or 2 years (your choice at purchase).
+Price: from £3.99 per month, or save 10% by paying upfront annually.
+
+VoltCare Plus — for the moments life happens
+Everything in Essential, plus cover for accidental damage — one accidental damage claim per
+12-month rolling period. So if you drop your laptop or spill coffee on your phone, you're covered.
+An excess applies to accidental damage claims (see Part 3 for amounts).
+What it does NOT cover: white goods (washing machines, fridges, ovens — see note below).
+Available on: laptops, phones, tablets, TVs, audio equipment, gaming consoles.
+Duration: 2 or 3 years.
+Price: from £6.99 per month.
+
+NOTE FOR WHITE GOODS CUSTOMERS: VoltCare Plus is not available for washing machines,
+fridge-freezers, dishwashers, or ovens. For these products, your options are Essential or
+Complete. This is because accidental damage cover is not designed for fixed home appliances.
+
+VoltCare Complete — our highest level of protection
+Everything in Plus, with no limit on accidental damage claims and no excess to pay. We also
+include an annual health check for eligible appliances. And if we can't fix your product within
+48 hours of receiving it, we'll replace it — no arguments.
+Available on: laptops priced £800 or over, TVs priced £600 or over, and selected white goods
+(washing machines, fridge-freezers, and range cookers) priced £400 or over.
+Duration: 3 years (fixed).
+Price: from £14.99 per month.
+
+IMPORTANT NOTE FOR COMPLETE WHITE GOODS CUSTOMERS: On white goods, Complete covers unlimited
+breakdown repairs — not accidental damage (white goods are fixed appliances where accidental
+damage is not a standard risk). The "unlimited claims" benefit means you can have multiple
+breakdown faults repaired at no extra cost over your 3-year plan.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PART 2 — WHICH PRODUCTS ARE ELIGIBLE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+VoltCare is available on products purchased new from Voltex stores or voltex.co.uk.
+Specific eligibility rules by product type:
+
+LAPTOPS AND COMPUTERS
+All three tiers available on new laptops and desktops.
+VoltCare Complete is available on laptops priced £800 or over only.
+Chromebooks: Essential and Plus only (Complete not available on Chromebooks at any price point).
+Refurbished and open-box laptops sold by Voltex: Essential only.
+Laptops not purchased from Voltex: not eligible for any VoltCare plan.
+
+PHONES AND WEARABLES
+Essential and Plus available. Complete is not available for phones.
+If you have a VoltMobile contract through Voltex, please note that VoltCare and VoltMobile
+device insurance are separate products — you may hold both, and they cover different things.
+Smartwatches and fitness trackers over £150: eligible for Essential.
+Fitness trackers under £150: not eligible.
+Screen-only damage on phones (cracked screen from a drop): this is an accidental damage claim
+under Plus. It counts as your one accidental damage claim for the 12-month period.
+
+TELEVISIONS
+All three tiers available subject to price thresholds for Complete (£600 and over).
+If your TV is wall-mounted: VoltCare covers the TV unit itself. The wall bracket, mounting
+hardware, and any cables are not covered unless you purchased the VoltInstall Care add-on
+when Voltex installed your TV.
+OLED televisions: OLED burn-in (image retention caused by displaying static content for
+extended periods) is a characteristic of OLED technology and is not covered under any VoltCare
+tier. This is consistent with manufacturer warranties across the industry.
+
+WHITE GOODS (WASHING MACHINES, FRIDGE-FREEZERS, DISHWASHERS, OVENS, RANGE COOKERS)
+Essential and Complete available. Plus is not available for white goods.
+Integrated appliances (built-in ovens, integrated fridge-freezers): VoltCare covers the
+appliance. Cabinetry, fitting costs, or reinstallation after a repair visit are not included
+unless you purchased the VoltInstall Care add-on.
+American-style fridge-freezers: your plan covers the full appliance. Internally we treat the
+two cooling zones separately for repair scheduling, but you only need one plan.
+Tumble dryers manufactured before January 2020: not eligible for VoltCare due to historical
+manufacturer safety recalls. If your dryer is affected, visit voltex.co.uk/recalls for guidance.
+
+GAMING CONSOLES AND ACCESSORIES
+Consoles: Essential and Plus available.
+Controllers, headsets, and gaming accessories: Essential only. Plus is not available on
+accessories priced under £80.
+Modified consoles: if your console has been modified with unofficial firmware or hardware
+changes, VoltCare cover is voided. See Part 5 for full details on what voids your plan.
+
+SMALL DOMESTIC APPLIANCES (KETTLES, TOASTERS, COFFEE MACHINES, AIR FRYERS)
+Essential only. Maximum duration is 2 years. Not available on products under £40.
+Coffee machines with integrated grinders: the grinder mechanism is covered for mechanical
+failure. Faults caused by not descaling the machine regularly are not covered — these are
+maintenance issues, not product faults. Your machine's manual will tell you how often to descale.
+
+SMART HOME AND HEALTH TECH (ROBOT VACUUMS, AIR PURIFIERS, SMART DISPLAYS)
+Essential only for most products in this category.
+Robot vacuums: battery degradation over time is normal wear and is not a covered fault.
+A battery that fails suddenly or well within its expected lifespan may be covered — this is
+assessed case by case at the repair centre.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PART 3 — WHAT IS COVERED AND WHAT IS NOT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+WHAT ALL PLANS COVER
+- Mechanical and electrical breakdown: any fault that occurs through normal use
+- Faults caused by power surges
+- Parts and labour for all covered repairs — you pay nothing beyond any applicable excess
+- Software faults on computing devices: diagnostics and operating system reinstallation
+  (note: Complete also covers this; Essential and Plus cover it where the fault is caused by
+  a hardware issue rather than user-installed software)
+
+WHAT PLUS AND COMPLETE ALSO COVER
+- Accidental damage: damage caused by a single, identifiable accident — a drop, a spill,
+  a crack from impact
+- Plus: one accidental damage claim per rolling 12-month period
+- Complete: unlimited accidental damage claims, no excess
+
+EXCESS AMOUNTS FOR ACCIDENTAL DAMAGE (PLUS TIER ONLY — no excess on Complete)
+Products purchased for under £300: £25 excess per accidental damage claim
+Products purchased for £300–£799: £49 excess per accidental damage claim
+Products purchased for £800 or over: £75 excess per accidental damage claim
+The excess is collected before your repair is booked. You can pay by card over the phone,
+online at voltex.co.uk/my-plans, or in any Voltex store.
+
+CUSTOMERS WITH PLANS PURCHASED BEFORE 1 OCTOBER 2024
+If you bought your VoltCare plan before 1 October 2024, your plan operates under our previous
+terms (Version 4.5). Under Version 4.5, no excess applied to accidental damage claims on the
+Plus tier. If you are asked to pay an excess and you believe your plan predates October 2024,
+please ask us to check your plan version — we will verify this and correct any error immediately.
+Your plan version is shown in your confirmation email and in your online account.
+
+WHAT IS NOT COVERED UNDER ANY PLAN
+
+Cosmetic damage: scratches, dents, scuffs, or discolouration that do not affect how your
+product works are not covered. We cover faults, not wear to appearance.
+
+Consumable parts: some components are designed to wear out over time and are the owner's
+responsibility to replace. These include printer ink and toner cartridges, vacuum filters,
+washing machine door seals (after normal use), oven heating elements (unless they fail
+within the first 12 months), and laptop batteries that have degraded naturally after heavy use.
+
+Data loss: VoltCare does not cover the loss of any data stored on your device. We strongly
+recommend regular backups. Before sending any device for repair, please back up your data —
+Voltex cannot be held responsible for data loss during the repair process.
+
+Damage caused by pests: damage from mice, insects, or other pests is a matter for your home
+insurance, not VoltCare.
+
+Business use: VoltCare is a residential plan. If your product is used primarily for business
+or commercial purposes, it is not eligible for VoltCare cover. If you are unsure whether your
+use qualifies, please call us before making a claim.
+
+Theft and loss: VoltCare does not cover theft or loss of any product. If you need cover for
+theft, this is available through home contents insurance or, for phones, through VoltMobile
+device insurance.
+
+Intentional damage: damage caused deliberately by you or anyone else is not covered.
+
+SPECIFIC SITUATIONS CUSTOMERS OFTEN ASK ABOUT
+
+"My TV remote stopped working — is that covered?"
+Remote controls are accessories and are not part of the TV unit covered by VoltCare. We sell
+replacement and universal remotes in store and online from £9.99.
+
+"My laptop fan is making a loud noise"
+A noisy fan can be a mechanical fault (covered) or normal behaviour when your laptop is
+working hard under load (not a fault). Our repair team will assess this. If it is confirmed
+as a mechanical failure, it is covered under all tiers.
+
+"My washing machine is shaking a lot"
+Excessive vibration can be caused by the machine not being level, or by a bearing or drum
+fault. The first is an installation issue and not covered; the second is a mechanical fault
+and is covered. We will send an engineer to assess — we do not make this judgement over the phone.
+
+"There are lines across my phone screen but I didn't drop it"
+Screen faults can occur without any impact — this is a manufacturing or hardware fault, not
+accidental damage. This is covered as a breakdown claim under all tiers, with no excess.
+If you did drop the phone and the screen is now damaged, that is an accidental damage claim
+(covered under Plus and Complete, not Essential).
+
+"I spilled liquid on my laptop and some keys have stopped working"
+Liquid damage is accidental damage. It is covered under Plus and Complete (subject to excess
+on Plus). It is not covered under Essential. Please do not turn the device on after liquid
+exposure — bring it to a Voltex store or request a collection as soon as possible.
+
+"My OLED TV has an image burnt into the screen"
+OLED burn-in is not covered under any VoltCare plan. This is a known characteristic of OLED
+display technology, not a product fault, and is excluded by Voltex and by all manufacturers.
+We recommend using your TV's built-in pixel refresh feature regularly to minimise this risk.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PART 4 — HOW TO MAKE A CLAIM
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+FOUR WAYS TO CLAIM
+
+Online (fastest): voltex.co.uk/voltcare-claim — available 24 hours a day, 7 days a week.
+By phone: 0333 400 7000, select option 2. Monday to Saturday 8am–8pm, Sunday 9am–5pm.
+In store: visit any Voltex store and a colleague will initiate your claim for you.
+Voltex app: open the app, go to My Plans, and select Claim (available for accounts
+created after March 2023).
+
+WHAT YOU WILL NEED
+Your VoltCare plan reference number — this is in your plan confirmation email and your
+online account. It starts with VC- followed by 8 digits.
+Proof of purchase — your receipt, order confirmation email, or your Voltex account order history.
+Your product's serial number — usually on the back or base of the product, or in the device
+settings under "About". For washing machines it is typically inside the door rim.
+A description of the fault or incident — what happened, when it happened, and what the
+product is now doing (or not doing).
+
+For accidental damage claims, we will also ask:
+When did the incident happen?
+What happened — for example, did the product fall, get wet, or get caught in a door?
+Was this a single incident or repeated exposure over time? (A single event is covered;
+gradual exposure such as moisture from a steamy bathroom over several months is not.)
+For liquid damage to a phone: was the phone fully submerged, or was it a splash or spill?
+Both are covered under Plus and Complete, but we ask to understand the extent of the damage.
+
+WHAT HAPPENS AFTER YOU CLAIM
+We will confirm your claim by SMS and email, including your claim reference number (starts CL-).
+If an excess applies, we will collect this before booking your repair.
+For small tech: we will book a courier to collect your product, or you can drop it at any store.
+For white goods: we will book an engineer visit to your home.
+You will receive repair progress updates by SMS.
+
+IF WE NEED MORE INFORMATION
+Occasionally we may need to ask you additional questions before we can approve your claim.
+This is most common for accidental damage claims or where the product's repair history
+is complex. We aim to resolve any queries within 2 business days. During this time your
+claim is paused — the clock on our repair timescales does not start until the claim is approved.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PART 5 — REPAIR, REPLACEMENT AND TIMESCALES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SMALL TECH (PHONES, TABLETS, LAPTOPS, AUDIO, GAMING CONSOLES, TVs)
+
+How we repair your product:
+Collection from your home: we will book a courier to collect your product within 2 business
+days of your claim being approved. Your product is sent to our Repair Centre in Newark,
+Nottinghamshire — one of the largest tech repair facilities in Europe.
+Drop off at a Voltex store: bring your product to any store before 2pm and it is dispatched
+to the Repair Centre the same day.
+In-store repair while you wait: available for selected phone screen replacements at our
+47 Tech Bar stores (check voltex.co.uk/tech-bar for your nearest location). Most in-store
+screen repairs take 60 to 90 minutes.
+
+How long repairs take:
+VoltCare Essential and Plus: we aim to complete your repair within 5 working days of
+receiving your product at the Repair Centre.
+VoltCare Complete: we guarantee to repair or replace your product within 48 business hours
+of receiving it. If we miss this, you are entitled to a replacement or a full refund of
+the current market value — whichever you prefer.
+
+WHITE GOODS (WASHING MACHINES, FRIDGE-FREEZERS, DISHWASHERS, OVENS, RANGE COOKERS)
+
+We repair white goods at your home — we do not collect large appliances.
+After your claim is approved, we will book an engineer visit. Our target is to visit within
+3 to 7 business days. On the first visit, the engineer will diagnose the fault. If the right
+part is on the van, the repair will be completed the same day. If a part needs to be ordered,
+a second visit will be booked. We aim to source parts within 3 to 5 business days.
+
+If we cannot complete your white goods repair within 15 business days of your claim being
+approved, you are entitled to choose one of the following:
+A like-for-like replacement appliance, delivered and installed by Voltex at no charge.
+A Voltex gift card to the value of the current market price of an equivalent appliance.
+We will always present both options clearly — the choice is entirely yours.
+
+IF YOUR FRIDGE OR FREEZER BREAKS DOWN (Complete customers)
+If your fridge-freezer develops a fault that means you have no refrigeration while waiting
+for repair, please call us. VoltCare Complete includes a contribution of up to £50 toward
+temporary refrigeration or food spoilage costs. Please speak to our team to arrange this.
+
+WHAT HAPPENS IF YOUR PRODUCT CANNOT BE REPAIRED
+If our engineers assess that your product is beyond economical repair, we will contact you
+and offer you the same two options as above: a like-for-like replacement, or a gift card
+at current market value. We will explain our assessment and you can ask questions about it.
+
+DELAYS OUTSIDE OUR CONTROL
+Our timescales may be affected by circumstances we cannot control, such as a manufacturer
+placing parts on global allocation due to supply chain disruption. In these cases we will
+contact you, explain the delay, and give you an updated expected completion date. Your
+rights under your plan remain the same — if we exceed the maximum timescale, your
+replacement entitlement still applies.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PART 6 — YOUR PLAN, PAYMENTS AND CANCELLATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+MONTHLY PAYMENTS
+Your plan renews each month by Direct Debit or continuous card payment.
+If a payment fails, here is what happens:
+Day 1: payment fails — we try again automatically in 3 days.
+Day 4: if the second attempt fails, we notify you by email and SMS.
+Day 10: we make a third and final automatic attempt.
+Day 11 to Day 25 (Grace Period): if payment is still outstanding, your plan enters a
+14-day Grace Period. Your cover continues in full during this time.
+To reinstate your plan: update your payment details at voltex.co.uk/my-plans or call us.
+Day 25 onwards: if payment remains outstanding after the Grace Period, your plan is
+suspended and cover stops. You can still reinstate by paying the outstanding balance.
+Day 55: if the balance is not paid by day 55, your plan is cancelled. If you wish to
+protect your product after this point, you will need to purchase a new plan. Products
+over 3 years old at the time of cancellation may not be eligible for a new VoltCare plan.
+
+IMPORTANT: if you need to make a claim while your account is in the Grace Period (days 11–25),
+your claim will proceed as normal. A payment problem does not suspend your right to claim
+during the Grace Period.
+
+ANNUAL PAYMENT (UPFRONT)
+If you chose to pay annually upfront, you received a 10% discount. Your plan does not have
+a monthly payment to fail. Cancellation terms are the same as for monthly plans (see below).
+
+AUTO-RENEWAL
+Your plan renews automatically when it reaches the end of its term, unless you cancel.
+We will email you (and write to you for annual plans) 45 days before your renewal date,
+confirming the renewal price. Prices may change at renewal.
+If you do not want to renew, cancel before your renewal date via My Plans online, by phone,
+or in store.
+If your plan has already renewed and you change your mind within 14 days of the renewal
+date, contact us — we will refund the renewed payment in full.
+
+CANCELLING YOUR PLAN
+
+Within 45 days of purchase (cooling-off period):
+If you have not made any claims, you receive a full refund of everything you have paid.
+If you have made a claim, your refund is calculated as: total amount paid, minus the value
+of any repair or replacement we provided. If we spent more on your claim than you paid in,
+no refund is due — but you will not be charged anything further.
+
+After 45 days:
+You can cancel at any time. Your refund is calculated as: the value of your remaining plan
+months (pro-rata), minus a £15 administration fee, minus the value of any claims we have paid.
+If total claim value exceeds total plan value, no refund is due and no further charges apply.
+
+Example: You paid £120 for a 2-year plan and used 8 months (£40 equivalent). We repaired
+your laptop at a cost of £180 to Voltex. No refund is due, as the claim value exceeds
+the plan value. You keep the repair — you simply do not receive a refund on cancellation.
+
+How to cancel: call 0333 400 7000, visit any Voltex store, or write to:
+VoltCare Customer Relations, Voltex Retail Ltd, 12 Salford Innovation Park, Salford, M50 2UU.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PART 7 — OTHER IMPORTANT THINGS TO KNOW
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+IF YOUR PRODUCT HAS BEEN MODIFIED OR REPAIRED ELSEWHERE
+VoltCare cover is voided if your product has been opened and repaired or modified by anyone
+other than Voltex, a Voltex-authorised repairer, or the original manufacturer. Signs of this
+include broken tamper-evident seals, mismatched fixings, or third-party components.
+If your gaming console or mobile device has had unofficial firmware installed (jailbreaking,
+rooting, or custom software), your VoltCare cover is voided for faults arising from or
+connected to that modification.
+If Voltex's repair team identifies signs of previous unauthorised work, they will contact you
+before proceeding and explain your options.
+
+IF YOU ARE GIVEN THE PRODUCT AS A GIFT OR BUY IT SECOND-HAND
+VoltCare purchased at the point of sale can be transferred to a new owner if the product
+changes hands. To transfer a plan:
+Register the transfer at voltex.co.uk/voltcare-transfer within 30 days of the ownership change.
+A £15 transfer fee applies. This fee is waived if the product was given as a gift and you
+can provide a gift receipt or equivalent documentation.
+If you and the previous owner live at the same address and are immediate family members,
+no transfer registration is required — the plan automatically covers the household.
+If a transfer has not been registered and a claim is made by the new owner, the claim
+will not be valid. We recommend all buyers of second-hand Voltex products check whether
+an active VoltCare plan exists and register the transfer promptly.
+
+YOUR STATUTORY RIGHTS
+VoltCare is a paid protection plan, but it does not replace your statutory rights under
+UK law. Under the Consumer Rights Act 2015:
+Within 30 days of purchase: if your product is faulty, you have the right to a full refund.
+This is a return, not a VoltCare claim, and is processed separately.
+Within 6 months of purchase: if a fault appears, Voltex must repair or replace the product.
+If a repair or replacement is not possible or fails, you may be entitled to a price reduction
+or full refund. VoltCare does not remove or reduce these rights.
+After 6 months: you still have rights, but you may need to show the fault was present from
+the start. VoltCare can make this easier, as we cover faults without requiring you to
+prove origin.
+If you are unsure whether to use VoltCare or your statutory rights for a particular situation,
+please ask us — we will always explain both options honestly.
+
+MAKING A COMPLAINT
+If you are unhappy with how we have handled your VoltCare plan or a claim, we want to
+know. Contact our Customer Relations team:
+Phone: 0333 400 7000 (ask for Customer Relations)
+Email: voltcare.complaints@voltex.co.uk
+Post: VoltCare Customer Relations, Voltex Retail Ltd, 12 Salford Innovation Park, M50 2UU
+
+We aim to resolve all complaints within 5 business days. If we cannot resolve your complaint
+within 8 weeks, or if you are not satisfied with our response, you may refer your complaint
+to the Retail Ombudsman (retailombudsman.org) or, where VoltCare is regulated as an insurance
+product, to the Financial Ombudsman Service (financial-ombudsman.org.uk).
+
+PROTECTING YOUR DATA
+Voltex Retail Ltd processes your personal data to administer your VoltCare plan and handle
+claims. For full details of how we use your data, see our Privacy Policy at voltex.co.uk/privacy.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+QUICK REFERENCE — FOR AGENTS AND CUSTOMERS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Claims line: 0333 400 7000 (option 2) | Mon–Sat 8am–8pm, Sun 9am–5pm
+Online claims: voltex.co.uk/voltcare-claim
+Plan management: voltex.co.uk/my-plans
+Tech Bar store locator: voltex.co.uk/tech-bar
+Recall register: voltex.co.uk/recalls
+Plan transfer: voltex.co.uk/voltcare-transfer
+Written correspondence: VoltCare Customer Relations, Voltex Retail Ltd,
+  12 Salford Innovation Park, Salford, M50 2UU
+
+PLAN VERSION REFERENCE (AGENTS)
+Current terms (V4.7): plans purchased on or after 1 February 2026
+V4.6 terms: plans purchased 1 October 2024 – 31 January 2026 (excess applies on Plus AD)
+V4.5 terms: plans purchased before 1 October 2024 (NO excess on Plus AD; 7-day repair target)
+Always verify plan version in CRM before applying excess or quoting repair timescales. 

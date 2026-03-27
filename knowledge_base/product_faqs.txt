@@ -1,0 +1,520 @@
+VOLTEX RETAIL — PRODUCT KNOWLEDGE AND CUSTOMER FAQ GUIDE
+Voltex Retail Ltd | voltex.co.uk/help/product-guides
+Version 2.4 | Effective 1 March 2026 | Updated quarterly
+For customers shopping at Voltex and for colleague product knowledge reference.
+
+This guide covers the most common product questions across our three largest categories:
+Computing (laptops and desktops), Televisions, and White Goods (washing machines,
+fridge-freezers, dishwashers, ovens). For full technical specifications on individual
+products, see the product page at voltex.co.uk or ask a colleague in store.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION A — LAPTOPS AND COMPUTING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+A1. UNDERSTANDING LAPTOP SPECIFICATIONS
+
+Q: What do the processor numbers actually mean — and does it matter?
+A: The processor (CPU) is the brain of the laptop. The two main manufacturers are Intel
+and AMD. Intel uses a naming scheme like Core i5-1335U or Core Ultra 7 155H. AMD uses
+Ryzen 5 7530U or Ryzen 9 7945HX. As a general guide:
+Core i3 / Ryzen 3: suitable for basic tasks — web browsing, email, document editing.
+Core i5 / Ryzen 5: the sweet spot for most people — handles everyday tasks, light photo
+editing, streaming, and video calls comfortably.
+Core i7 / Ryzen 7: for more demanding use — video editing, running multiple applications,
+intensive spreadsheets, light gaming.
+Core i9 / Ryzen 9: professional-level performance — 3D rendering, heavy video production,
+data science workloads.
+The letter at the end matters too: U means ultra-low power (good battery life, suitable
+for thin and light laptops); H or HX means high performance (faster but runs hotter and
+uses more battery — common in gaming laptops).
+NOTE FOR AGENTS: a customer asking "is this laptop fast enough for my job?" needs a
+conversation about what software they run, not just a spec comparison. Ask specifically:
+Do you use any specialist software? Do you edit photos or video? Do you game?
+
+Q: How much RAM do I need?
+A: RAM (memory) determines how many things your laptop can do at once before slowing down.
+8GB RAM: minimum for Windows 11; acceptable for light use but can feel sluggish with many
+browser tabs open. We do not recommend 8GB for new purchases in 2026.
+16GB RAM: the recommended standard. Handles everyday multitasking, light creative work,
+and most business applications comfortably.
+32GB RAM: for creative professionals, software developers, running virtual machines,
+or heavy multitasking.
+64GB RAM: specialist use only — data science, professional video production, 3D modelling.
+IMPORTANT: many modern laptops, particularly those under £600, have RAM soldered directly
+to the motherboard and cannot be upgraded later. If a customer is choosing between 8GB
+(not upgradeable) and 16GB (not upgradeable), always recommend 16GB — the difference in
+cost now is far less than the cost of replacing the laptop in two years.
+
+Q: SSD vs HDD — which is better?
+A: All new laptops sold by Voltex since 2024 include SSD (solid state drive) storage.
+HDDs (hard disk drives) are spinning mechanical drives that are slower, heavier, and more
+vulnerable to damage from drops. SSDs are faster, quieter, lighter, and more durable.
+If a customer is asking about this, they may be comparing a new Voltex laptop to a
+second-hand or very old device. There is no scenario in our current range where an HDD
+is preferable in a laptop.
+Storage sizes:
+256GB SSD: minimum — adequate for the operating system and basic files, but fills quickly
+if the customer stores photos, videos, or large applications. Not recommended for most users.
+512GB SSD: the practical minimum for most people — comfortable for everyday use.
+1TB SSD: recommended for anyone who stores significant media, works with large files,
+or doesn't want to think about storage management.
+
+Q: What is the difference between integrated graphics and a dedicated GPU?
+A: Integrated graphics means the processor handles visuals using shared system memory.
+This is fine for everyday tasks, streaming video, and light creative work.
+A dedicated GPU (graphics processing unit) is a separate chip with its own memory,
+designed for visually intensive tasks. You need a dedicated GPU for:
+- Gaming (most games require at least an NVIDIA GeForce RTX 3050 or equivalent to run well)
+- Video editing with hardware acceleration (Premiere Pro, DaVinci Resolve)
+- 3D modelling (Blender, AutoCAD, SolidWorks)
+- Machine learning and AI development work
+- Running multiple external monitors at high resolution simultaneously
+Common dedicated GPU brands in our range: NVIDIA GeForce RTX series (consumer and gaming),
+NVIDIA RTX for professional workstations, AMD Radeon RX series.
+AGENT NOTE: if a customer says they want to "do a bit of gaming" — ask what games. Minecraft
+and browser games run on integrated graphics. Call of Duty, Cyberpunk, and FIFA require
+a dedicated GPU. This is the single most common reason customers return laptops.
+
+Q: What does the display type mean — IPS, OLED, AMOLED, TN?
+A: Display technology affects colour accuracy, viewing angles, and brightness.
+TN (Twisted Nematic): fast refresh rates, found in budget gaming laptops. Poor viewing
+angles and colour accuracy. Less common in new laptops in our 2026 range.
+IPS (In-Plane Switching): good colour accuracy, wide viewing angles. The standard for
+most laptops in our range. Suitable for most users.
+OLED / AMOLED: exceptional colour accuracy, perfect blacks, high contrast. Preferred by
+creative professionals and those who watch a lot of video content. More expensive and
+higher battery consumption than IPS. Note: OLED screens on laptops are susceptible to
+burn-in over time if static elements (taskbar, desktop icons) are left on screen for
+extended periods. This is a known characteristic, not a defect.
+Refresh rate: standard is 60Hz. Gaming laptops offer 120Hz, 144Hz, or 165Hz — higher
+refresh rates make motion smoother during gaming. For non-gaming use, 60Hz is sufficient.
+Resolution: Full HD (1920x1080) is standard. 2K (2560x1440) and 4K (3840x2160) offer
+sharper images but reduce battery life and require more GPU power to run.
+
+A2. CHOOSING THE RIGHT LAPTOP FOR YOUR NEEDS
+
+Q: I just need something for everyday use — web, email, video calls. What should I get?
+A: For this use case: Core i5 or Ryzen 5 processor, 16GB RAM, 512GB SSD, IPS display.
+Budget of £500–£700 covers this specification comfortably in our current range.
+Brands to consider: Lenovo IdeaPad and ThinkPad E series, HP Pavilion and Envy series,
+ASUS VivoBook series. All offer good everyday performance at this price point.
+Battery life matters for everyday use: look for 10+ hours quoted battery life. Real-world
+battery life is typically 60–70% of quoted figures under mixed use.
+
+Q: I am a student — what laptop do I need?
+A: Depends heavily on the subject. Ask the customer:
+Arts, humanities, business, law: everyday use spec is sufficient (see above).
+Engineering, architecture, design (CAD, 3D modelling): needs a dedicated GPU and 16GB+ RAM.
+Computer science / software development: 16GB RAM recommended; developer tools are memory-hungry.
+Media production (video, music): dedicated GPU and 1TB+ storage. Consider a display with
+good colour accuracy (IPS minimum, OLED preferred).
+For students who need Microsoft Office: check whether their university provides free access
+through Microsoft 365 Education before recommending a laptop with Office included.
+
+Q: I want to use my laptop for gaming. What do I need?
+A: The key specs for gaming are:
+Dedicated GPU: minimum NVIDIA GeForce RTX 3050 for modern titles at 1080p. RTX 4060 or
+above for high settings or 1440p gaming.
+Processor: Core i7 / Ryzen 7 minimum for gaming. The CPU affects how fast the game
+simulates the world; the GPU renders what you see.
+RAM: 16GB minimum; 32GB recommended for future-proofing.
+Display: 144Hz refresh rate minimum for a smooth gaming experience. 165Hz preferred.
+Storage: 1TB SSD minimum — modern games are 50–100GB each.
+Cooling: gaming laptops run hot. Ask if the customer will mainly use it on a desk (better
+airflow) or on their lap (restricts vents). For lap use, consider a laptop cooling pad.
+Battery: gaming laptops have poor battery life under gaming load — typically 1 to 2 hours.
+They are best used plugged in. This is expected behaviour, not a fault.
+
+Q: Is a Chromebook suitable for me?
+A: Chromebooks run ChromeOS and are designed primarily for cloud-based work. They are
+an excellent choice if the customer:
+- Primarily uses web-based tools (Google Docs, Gmail, web browsing, streaming)
+- Wants a lightweight, low-cost device primarily for school (KS3/GCSE level)
+- Wants very long battery life (Chromebooks typically achieve 12–15 hours real-world)
+Chromebooks are NOT suitable if the customer needs to:
+- Run Windows software (Microsoft Office desktop app, Adobe suite, specialist software)
+- Play PC games
+- Use professional creative or engineering tools
+NOTE: Microsoft Office is available as a web app on Chromebooks. This is not the same
+as the full desktop application — functionality is reduced. If a customer's workplace
+or college uses specific Windows software, a Chromebook will not meet their needs.
+VoltCare: Essential and Plus only on Chromebooks. Complete is not available.
+
+Q: Can I use my laptop with an external monitor or TV?
+A: Most modern laptops support external displays via HDMI, USB-C, or Thunderbolt.
+Check the specific laptop's port configuration:
+HDMI out: connects directly to any TV or monitor with an HDMI input.
+USB-C / Thunderbolt: requires a compatible monitor or an adapter/dock.
+DisplayPort: found on some business laptops and gaming laptops; very high bandwidth.
+Maximum display support varies: most laptops support 1 or 2 external monitors.
+Some (particularly those with Thunderbolt 4) support up to 4 displays via a dock.
+NOTE: connecting a laptop to a TV does not automatically make it a "smart TV." The laptop
+drives the content; the TV is a display only. The TV's own smart features are unrelated.
+
+A3. LAPTOPS — COMMON ISSUES AND TROUBLESHOOTING GUIDANCE
+
+Q: My laptop is running slowly — what could cause this?
+A: Common causes and what they mean for VoltCare/repair eligibility:
+Too many startup programmes (not a fault — advise customer to check Task Manager > Startup)
+Storage nearly full: performance drops significantly when SSD is over 90% full. Not a fault.
+Background updates running: Windows Update or antivirus scans slow performance temporarily.
+RAM insufficient for workload: if the customer has 8GB and runs many tabs/apps, the laptop
+will slow down. Not a fault — this is a specification limitation.
+Overheating causing throttling: if the laptop fan runs constantly and performance degrades,
+this may indicate a cooling fault or dust accumulation. Covered under VoltCare as a
+mechanical fault if confirmed by repair centre.
+Hardware failure (failing SSD, degrading RAM): covered under VoltCare and statutory rights.
+
+Q: My laptop battery drains very quickly
+A: Battery degradation over time is expected. Covered under VoltCare if:
+The battery capacity has dropped significantly within the first 12 months (premature failure).
+The battery fails completely (will not charge or hold any charge).
+NOT covered if the battery has naturally degraded after heavy use over 2+ years — this is
+normal wear. A battery at 70% of original capacity after 3 years of daily use is not a fault.
+For context: most laptop batteries are rated for 300–500 full charge cycles before noticeable
+degradation. Charging daily = approximately 1 cycle per day = 300-500 days before degradation
+becomes significant. Heavy users who charge multiple times a day will see faster degradation.
+NOTE: features like Adaptive Battery (Windows 11) and battery health management can extend
+battery lifespan significantly if enabled. Agents can advise customers to check these settings
+before concluding the battery is faulty.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION B — TELEVISIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+B1. UNDERSTANDING TV SPECIFICATIONS
+
+Q: What is the difference between OLED, QLED, and LED TVs?
+A: These refer to the display technology used to produce the image.
+LED (standard): uses a backlight behind an LCD panel. The most common and affordable
+technology. Good brightness, good for well-lit rooms. Black levels are less deep than
+OLED because the backlight cannot be fully turned off.
+QLED (Quantum LED — Samsung's branding, also used by TCL and Hisense): an enhanced LED
+TV using quantum dot technology to improve colour volume and brightness. Excellent for
+bright rooms and HDR content. Does not match OLED for black levels but often brighter.
+OLED: each pixel produces its own light and can switch off completely, producing perfect
+blacks and infinite contrast ratio. Exceptional for dark room viewing, cinematic content,
+and gaming (near-zero response time). More expensive than LED/QLED. Susceptible to
+burn-in (see A4 below). Brands: LG (WOLED), Sony (using LG panels), Philips.
+OLED evo / MLA OLED (LG): enhanced OLED with higher brightness — addresses the
+traditional OLED weakness in bright rooms.
+QD-OLED (Samsung, Sony): combines OLED pixel self-emission with quantum dot colour
+layer. Considered the premium choice in 2025/26 — very high brightness, perfect blacks,
+exceptional colour. Sony Bravia 9 and Samsung S95D use this technology.
+MINI-LED: an LED TV with thousands of tiny LEDs for the backlight rather than a few
+large ones, allowing much finer local dimming. Achieves near-OLED black levels while
+maintaining LED brightness advantages. Found in Samsung Neo QLED, LG QNED, TCL QM series.
+
+Q: What screen size should I buy?
+A: Screen size should be matched to viewing distance and room size. As a guide:
+43–50 inch: suitable for bedrooms or small living rooms, viewing distance 1.5–2.5m
+55 inch: the most popular living room size — good for viewing distances of 2–3m
+65 inch: ideal for viewing distances of 2.5–3.5m; increasingly the mainstream choice
+75 inch: large living rooms, viewing distance 3–4m minimum for comfortable viewing
+85 inch and above: home cinema rooms or very large open-plan spaces
+NOTE: many customers underestimate how large a TV looks once mounted on a wall in their
+home vs in a large showroom. If a customer is unsure between two sizes, for living room
+use, the larger size is rarely regretted. For bedrooms, the smaller size is usually better.
+
+Q: What is 4K and do I need it?
+A: 4K (also called Ultra HD or UHD) refers to a resolution of approximately 3840 x 2160
+pixels — four times the detail of Full HD (1080p). Virtually all TVs 43 inches and above
+sold by Voltex in 2026 are 4K.
+Do you need 4K? For a TV 43 inches and above, yes — the extra detail is visible at normal
+viewing distances and all major streaming services (Netflix, Disney+, Amazon Prime Video)
+stream in 4K by default on compatible TVs.
+For a bedroom TV under 40 inches, Full HD may be sufficient depending on viewing distance.
+8K TVs are available in our range (75 inches and above from Samsung and LG). 8K content
+is extremely limited in 2026 — there is no mainstream 8K streaming or broadcast. 8K TVs
+upscale 4K content to 8K, which offers marginal improvement. We do not actively recommend
+8K for typical customers.
+
+Q: What is HDR and why does it matter?
+A: HDR (High Dynamic Range) allows the TV to display a wider range of brightness —
+from very dark shadows to very bright highlights — within the same image.
+HDR10: the baseline HDR standard. Supported by virtually all 4K TVs and all streaming
+services. You need this as a minimum.
+HDR10+: Samsung's dynamic HDR standard — adjusts HDR settings scene by scene rather than
+for the whole film. Supported by Amazon Prime Video and Samsung TVs. Not supported by LG OLED.
+Dolby Vision: the premium HDR format, developed by Dolby. Adjusts HDR at a frame-by-frame
+level. Supported by Netflix, Disney+, Apple TV. Found on LG, Sony, Philips, and TCL TVs.
+Not supported on Samsung TVs (Samsung uses HDR10+ instead).
+HLG (Hybrid Log Gamma): used for live broadcast HDR content — BBC and Channel 4 broadcast
+in HLG. All 4K TVs in our range support HLG.
+AGENT NOTE: a customer asking "does this TV support HDR?" should be asked which streaming
+services they use. Netflix and Disney+ users want Dolby Vision (not on Samsung). Amazon
+Prime Video users want HDR10+ (Samsung and others). If they use both, they may want a TV
+that supports both formats — check the specific model's spec sheet.
+
+Q: What is the difference between refresh rate and motion handling?
+A: Refresh rate is how many times per second the screen updates the image, measured in Hz.
+50Hz / 60Hz: standard. Fine for watching films and TV shows.
+100Hz / 120Hz: smoother motion. Visually better for sport and for gaming.
+Manufacturers advertise "effective" refresh rates (Motionflow, TruMotion, PurMotion)
+that use processing to simulate higher frame rates. A 60Hz TV with motion processing
+marketed as "120Hz effective" is NOT the same as a native 120Hz panel.
+AGENT NOTE: for sports viewers and gamers, always check the native panel refresh rate,
+not the marketed processing rate. Native 120Hz panels are found in mid-range and above
+TVs from Samsung, LG, and Sony. Budget and entry-level TVs typically have 60Hz native panels.
+For gaming specifically: native 120Hz with HDMI 2.1 port is required to benefit from
+120fps gaming on PlayStation 5 and Xbox Series X. Not all HDMI ports on a TV are HDMI 2.1
+— check which ports are HDMI 2.1 if this matters to the customer.
+
+Q: What smart TV platforms are available and what are the differences?
+A: The smart platform determines how you navigate the TV, which apps are available,
+and how well it integrates with other devices.
+Samsung Tizen: Samsung's own platform. Excellent app selection, strong integration with
+Samsung smartphones and Galaxy ecosystem. Samsung Gaming Hub for cloud gaming.
+LG webOS: considered by many reviewers as the most user-friendly smart platform.
+Strong app support, excellent ThinQ app for smartphone integration. Magic Remote pointer
+navigation is a popular feature.
+Google TV (Sony Bravia, TCL, Hisense): runs Google's TV platform. Best integration with
+Android phones and Google services. Very large app catalogue via Google Play Store.
+Voice control via Google Assistant built in.
+Amazon Fire TV (available on some Hisense and Toshiba models in our range):
+best integration with Amazon Prime Video and Alexa ecosystem.
+NOTE: all major streaming apps (Netflix, Disney+, Amazon Prime Video, Apple TV+, BBC iPlayer,
+ITVX, Channel 4, YouTube) are available on all four platforms. The differences are in
+navigation preference and ecosystem integration, not fundamental capability.
+Customers asking "can I get [specific app]?" — check the TV's product page for app
+availability. Niche apps (specific sports packages, regional broadcasters) may vary by platform.
+
+B2. BUYING GUIDE — TELEVISIONS
+
+Q: I want a TV mainly for watching sport. What should I look for?
+A: Key specs for sport viewing:
+Native 120Hz refresh rate: essential for smooth fast motion. Do not accept 60Hz with
+motion processing as a substitute.
+High brightness: sport is often watched during the day in well-lit rooms. QLED, Mini-LED,
+or OLED evo are better choices than standard OLED for bright room viewing.
+Low input lag: relevant if the customer watches sport with the sound from a separate audio
+system — a TV with high input lag causes audio sync issues.
+For customers who also want to use the TV for gaming: HDMI 2.1 port is required for 120fps.
+
+Q: I want to use my TV for gaming with a PlayStation 5 or Xbox Series X. What do I need?
+A: The TV must have at least one HDMI 2.1 port to access 4K 120fps gaming.
+All current-gen consoles also benefit from VRR (Variable Refresh Rate) — reduces screen
+tearing during gameplay. This requires both the console and the TV to support VRR.
+Most HDMI 2.1 TVs in our 2026 range support VRR.
+ALLM (Auto Low Latency Mode): the TV automatically switches to Game Mode when a console
+is detected, reducing input lag without the user needing to manually change settings.
+Recommended brands for PS5/Xbox gaming: LG OLED (exceptional gaming features, near-zero
+input lag), Samsung QN90D/QN95D (very high brightness game mode), Sony Bravia 9 (Sony's
+own console ecosystem integration).
+
+Q: What is OLED burn-in and should I be worried?
+A: OLED burn-in occurs when a static image is displayed for very long periods, causing
+that image to be permanently retained in the screen. This is an inherent characteristic
+of OLED technology and is NOT covered under VoltCare or any manufacturer warranty.
+In practice, burn-in is not a concern for most viewers who watch varied content.
+It is more likely to occur if:
+- The TV is used as a PC monitor with a static taskbar or desktop icons
+- News channels with persistent tickers or logos are watched for many hours daily
+- The same game HUD or static UI element is displayed for hundreds of hours
+All LG and Sony OLED TVs include pixel refresher tools that reduce burn-in risk when
+used regularly. We recommend running the pixel refresher overnight monthly.
+For customers who primarily watch varied content (films, drama, sport): burn-in risk is low.
+For customers who want to use the TV as a PC monitor or play a single game for hundreds
+of hours: consider a QLED or Mini-LED TV instead of OLED.
+
+B3. TV INSTALLATION AND SETUP
+
+Q: Can Voltex install my TV on the wall?
+A: Yes. VoltInstall offers TV wall mounting from £49. The service includes:
+- Mounting the TV on a customer-supplied or Voltex-supplied bracket
+- Cable management (routing cables behind the wall or through a trunking cover)
+- Connecting to aerial, satellite, and HDMI devices
+- Initial setup including smart TV account setup and picture calibration
+If the customer wants cables routed inside the wall (through the plasterboard), this
+requires our Premium VoltInstall service (from £89) and is subject to wall type assessment.
+VoltInstall Care add-on (£29): covers the bracket, installation, and cables under VoltCare
+terms. Without this, VoltCare covers the TV unit only, not the mounting hardware.
+
+Q: Will my existing aerial or satellite dish work with a new TV?
+A: For Freeview (aerial): most UK homes have a standard aerial that works with any
+Freeview-compatible TV. If the customer is in an area with poor signal, a signal booster
+may be needed — this is an aerial installer issue, not a TV issue.
+For Sky / Freesat (satellite dish): a standard satellite dish works with any
+Freesat-compatible TV for free-to-air satellite channels. For Sky Q or Sky Glass, a
+separate Sky subscription and specific equipment is required — not supplied by Voltex.
+For Sky Glass: Sky Glass is not a standard TV — it is a Sky product sold by Sky directly.
+Voltex does not sell Sky Glass. Customers asking about Sky Glass should be directed to sky.com.
+NOTE: some properties (flats, listed buildings) have restrictions on external aerials and
+dishes. This is a property management or planning issue, not something Voltex can resolve.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION C — WHITE GOODS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+C1. WASHING MACHINES
+
+Q: What does the drum size mean and what size do I need?
+A: Drum size is measured in kilograms — the maximum dry weight of laundry per wash.
+6kg: suitable for 1–2 people. A full 6kg load is roughly 3 pairs of jeans, 6 shirts,
+and some underwear.
+8kg: suitable for 2–3 people. The most popular size in our range.
+10kg: suitable for 3–4 people or families who prefer to do fewer, larger washes.
+12kg and above: large families, or customers who regularly wash bulky items like duvets
+and curtains without needing a laundrette.
+NOTE: drum size affects the machine's physical dimensions only slightly — an 8kg and 10kg
+machine from the same brand are typically the same width and height, just different depth.
+Customers in tight spaces should always check the product dimensions, not just the drum size.
+
+Q: What is an inverter motor and why does it matter?
+A: An inverter motor adjusts its speed electronically rather than switching on and off at
+a fixed speed. Benefits:
+- Quieter operation — significant if the machine is in a kitchen or open-plan space
+- More energy efficient — the motor uses only the power needed for the current load
+- Longer lifespan — fewer mechanical stresses than a conventional motor
+- Most manufacturers offering inverter motors back them with a 10-year motor warranty
+  (Bosch, Samsung, LG, Beko all offer this on selected models in our range)
+Brands known for inverter motor reliability in our 2026 range: Bosch Series 6 and above,
+Samsung Ecobubble, LG F series, Beko ProSmart.
+
+Q: What do the energy ratings mean (A, B, C, D)?
+A: EU and UK energy labels rate appliances from A (most efficient) to G (least efficient).
+For washing machines as of 2026:
+A-rated machines: the most efficient available. Significantly lower energy bills over the
+appliance's lifetime but carry a premium purchase price.
+B and C-rated machines: good efficiency — the majority of our mid-range and budget models.
+D-rated and below: less efficient. Fine for customers on a tight budget but higher running costs.
+Energy calculation guidance: an A-rated 8kg washing machine uses approximately 50–60 kWh
+per 100 cycles. At 24p per kWh (approximate 2026 UK rate), this is around £13–£14 per
+100 washes. A D-rated machine may use 80–90 kWh per 100 cycles (£19–£22 per 100 washes).
+Over 1,000 washes, the difference is approximately £60–£80 in running costs — useful context
+when a customer questions whether an A-rated machine is worth the higher price.
+
+Q: Will a new washing machine fit in my kitchen?
+A: Standard washing machine dimensions: 60cm wide, 60cm deep, 85cm tall. This is universal
+across brands and fits standard kitchen spaces designed for washing machines.
+Slim-line washing machines (45cm wide): available for narrow spaces. Drum sizes are
+smaller (typically 6–7kg maximum) and the range is more limited.
+Integrated washing machines: designed to fit behind a kitchen door. Require a specific
+integrated-compatible cabinet opening. Not all washing machines are integrated-compatible —
+check the product listing for "integrated" or "freestanding" classification. An integrated
+machine cannot simply be placed freestanding — the door mounting mechanism is different.
+NOTE: the customer must measure the width of their access route (doorways, corridors) as
+well as the installation space. A washing machine that fits the space but cannot get through
+a narrow doorway is a real and common problem with large capacity machines.
+
+Q: What spin speed should I choose?
+A: Spin speed is measured in RPM (revolutions per minute) and determines how dry clothes
+are at the end of the cycle. Higher spin speed = drier clothes = less drying time needed.
+1000 RPM: basic — clothes will be noticeably damp. Higher drying time needed.
+1200 RPM: the practical minimum we recommend. Standard for most households.
+1400 RPM: the most common and recommended. Clothes are significantly drier.
+1600 RPM: diminishing returns — marginal improvement over 1400 RPM for most fabrics,
+but the machine may be noisier on the spin cycle.
+NOTE: high spin speeds can damage delicate fabrics. All modern washing machines have
+dedicated delicate, wool, and silk programmes that automatically reduce spin speed —
+customers do not need to worry about selecting spin speed manually for these items.
+
+C2. FRIDGE-FREEZERS
+
+Q: What is the difference between a frost-free and a manual defrost fridge-freezer?
+A: Frost-free (also called No Frost or Total No Frost): the appliance automatically
+prevents ice build-up in the freezer compartment. No manual defrosting required.
+The fan circulates cold air throughout the freezer, maintaining consistent temperature.
+Slight running cost increase vs manual defrost, but the convenience is considerable.
+Recommended for most households. All fridge-freezers in our Complete tier are frost-free.
+Manual defrost: ice builds up in the freezer compartment over time and must be manually
+defrosted periodically (typically every 6–12 months). Lower purchase price. Suitable for
+customers who prefer simplicity or are on a tight budget.
+NOTE: "Frost-free fridge" refers to the fridge compartment only — some models are
+frost-free in the fridge but require manual defrosting in the freezer. Check product
+spec for "Total No Frost" (both compartments) vs "No Frost Fridge" (fridge only).
+
+Q: What size fridge-freezer do I need?
+A: Total capacity is measured in litres, divided between fridge and freezer sections.
+Single person or couple: 200–250 litres total (roughly 60/40 fridge/freezer split)
+Family of 3–4: 300–400 litres total
+Large family or bulk shoppers: 400–500 litres
+American-style (side-by-side) fridge-freezers: typically 500–700 litres total.
+These are significantly wider (90–100cm) than standard models. Customers must measure
+the space carefully — American-style appliances often cannot fit in a standard kitchen
+alcove designed for a standard 60cm fridge-freezer.
+NOTE: fridge-freezer dimensions are given as Height x Width x Depth. Height is the most
+variable dimension — some models are 180cm, some are 200cm. Customers with low ceilings
+or overhead cupboards must check height before purchasing.
+
+Q: My fridge is making a strange noise — is it broken?
+A: Some noises from fridge-freezers are entirely normal. Help customers distinguish:
+Normal noises:
+- Gurgling or bubbling: refrigerant flowing through the cooling system — normal.
+- Clicking when compressor starts or stops — normal.
+- Humming from the compressor running — normal.
+- Frost-free models: fan noise is normal; louder airflow is expected compared to manual defrost.
+Noises that may indicate a fault:
+- Loud rattling: may indicate a loose component or the appliance vibrating against a wall
+  or cabinet. First ask: is the appliance level? Is it touching a wall or adjacent cabinet?
+  Check that the transit bolts (on washing machines, also relevant check for fridges on delivery)
+  have been removed. If levelling does not resolve it, log as a potential fault.
+- Loud continuous grinding or knocking: may indicate a fan blade obstructed by ice build-up
+  (on manual defrost models) or a failing compressor. This is a covered fault.
+- High-pitched buzzing or squealing: potential fan bearing fault. Log as a fault.
+
+C3. DISHWASHERS
+
+Q: What size dishwasher do I need — full size or slimline?
+A: Full size (60cm wide): fits 13–15 place settings. Standard for most kitchens.
+Slimline (45cm wide): fits 9–10 place settings. For smaller kitchens or households
+of 1–2 people. Slightly less energy efficient per place setting than full size.
+Integrated dishwashers: fit behind a kitchen cabinet door; require an integrated-compatible
+cabinet. Same compatibility considerations as integrated washing machines.
+
+Q: What does a dishwasher's energy rating and programme duration mean?
+A: The energy label shows efficiency per standard cycle (typically the Eco programme).
+The Eco programme is the most efficient but often runs for 3–4 hours.
+Auto or Daily programmes are shorter (1–2 hours) and suitable for normally soiled loads.
+Quick wash programmes (30–60 minutes): useful for lightly soiled items but less thorough —
+not a substitute for a full wash cycle on heavily soiled loads.
+Most modern dishwashers above £400 in our range include a delay start function, allowing
+customers to run cycles overnight on a lower energy tariff.
+
+C4. OVENS AND COOKING APPLIANCES
+
+Q: What is the difference between fan-assisted and fan oven?
+A: Fan-assisted oven: has a heating element at the back or top/bottom with a fan to
+circulate air. Good for most cooking. Most common type in our range.
+Fan oven (also called a true fan or convection oven): has a heating element surrounding
+the fan, ensuring even temperature throughout the oven. Better for baking and cooking
+multiple trays at the same time. Cooks slightly faster and at lower temperatures than
+a conventional oven.
+Conventional oven (no fan): heat from top and bottom elements only. Less even temperature
+distribution. Generally found only in entry-level models. Not recommended for regular baking.
+
+Q: What is a pyrolytic oven and is it worth the extra cost?
+A: A pyrolytic oven has a self-cleaning function that heats the oven to approximately 480°C,
+turning food residue to ash that can be wiped away. The oven locks during this process.
+The cleaning cycle takes 1.5–3 hours and consumes significant energy (approximately 2–3 kWh).
+Is it worth it? For customers who cook frequently and find oven cleaning a significant
+chore — yes. For light oven users — probably not, given the premium price.
+NOTE: the door and surrounding cabinetry get extremely hot during the pyrolytic cycle.
+Customers with young children should be advised to keep children away from the oven
+during the cleaning cycle even though the door locks.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+QUICK REFERENCE — FOR AGENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ALWAYS ASK BEFORE RECOMMENDING A LAPTOP:
+What will you primarily use it for? What software do you need to run?
+Do you game? If yes — what games?
+Will you use it at a desk or mainly on the go? (Affects size and battery preference)
+Has it been more than 3 years since your last laptop? (Helps calibrate expectations)
+
+ALWAYS ASK BEFORE RECOMMENDING A TV:
+What room is it for? How far will you sit from it?
+Is the room bright or dark? (Affects OLED vs QLED recommendation)
+Do you watch a lot of sport? (Native 120Hz important)
+Do you game on a console? If yes — which console? (HDMI 2.1 and VRR requirements)
+What streaming services do you use? (Affects HDR format recommendation)
+What smart home ecosystem are you in? (Google, Apple, Samsung, Amazon)
+
+ALWAYS ASK BEFORE RECOMMENDING A WASHING MACHINE:
+How many people are in the household?
+How often do you do laundry?
+Is the space a standard kitchen alcove, a utility room, or a tight space?
+Do you need the machine to be quiet? (Flat, open plan, nearby bedrooms)
+Do you have a tumble dryer or dry on a rack? (Affects spin speed priority)

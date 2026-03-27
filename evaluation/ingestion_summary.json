@@ -1,0 +1,14 @@
+{
+  "total_chunks": 421,
+  "documents_processed": [
+    "repairs_returns_policy.txt",
+    "product_faqs.txt",
+    "delivery_orders_policy.txt",
+    "voltmobile_policy.txt",
+    "voltcare_policy.txt"
+  ],
+  "collection_name": "voltex_knowledge",
+  "embedding_model": "all-MiniLM-L6-v2",
+  "policy_chunk_size": 400,
+  "policy_chunk_overlap": 80
+}

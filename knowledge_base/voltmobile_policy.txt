@@ -1,0 +1,574 @@
+VOLTEX RETAIL — VOLTMOBILE TERMS, CONDITIONS AND CUSTOMER GUIDE
+Voltex Retail Ltd | voltex.co.uk/voltmobile-terms
+Version 6.3 | Effective 1 March 2026 | Replaces all previous versions
+Registered in England and Wales. Company No. 07341822.
+VoltMobile is a trading name of Voltex Retail Ltd. Authorised and regulated by the
+Financial Conduct Authority for consumer credit. FCA Ref: 789234.
+VoltMobile is a Mobile Virtual Network Operator (MVNO) operating on the EE network.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PART 1 — WHAT IS VOLTMOBILE AND HOW IT WORKS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+VoltMobile is Voltex's own mobile network service. We provide mobile calls, texts,
+and data to customers across the UK. VoltMobile operates as a Mobile Virtual Network
+Operator (MVNO), which means we use EE's physical network infrastructure — the masts,
+cables, and spectrum — while operating our own billing, customer service, and plans.
+
+WHAT THIS MEANS FOR YOU AS A CUSTOMER
+
+Coverage: VoltMobile uses EE's network, which has the widest 4G coverage in the UK
+and extensive 5G coverage in major towns and cities. You can check coverage at
+voltex.co.uk/voltmobile-coverage or by entering your postcode in the VoltMobile app.
+
+Network issues and outages: if EE's network experiences a technical fault or planned
+maintenance, VoltMobile customers are affected. VoltMobile customer services cannot
+resolve network infrastructure issues directly — we report them to EE and provide
+updates. Planned maintenance is published at voltex.co.uk/network-status.
+
+What VoltMobile controls: your plan, billing, account management, customer service,
+add-ons, upgrades, and device purchases. Contact VoltMobile for all of these.
+
+What VoltMobile does not control: signal strength in specific locations (determined
+by EE's network infrastructure), international roaming agreements with overseas
+operators, and national network outages.
+
+AGENT NOTE: if a customer calls about poor signal or no service in a specific location,
+check the network status page before assuming it is a handset or SIM issue. If the
+network status page shows no issues, the next step is to check whether the issue is
+location-specific (a known coverage gap) or device-specific (try SIM in another device).
+Do not promise a signal fix — coverage gaps can only be resolved by EE's network
+investment programme, not by VoltMobile.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PART 2 — PLANS AND PRODUCTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+VOLTMOBILE PLAN TYPES
+
+SIM-Only Plans
+A SIM card only — no handset included. Customer uses their existing phone.
+Available on:
+  - Monthly rolling (30-day notice to cancel): no minimum term, full flexibility.
+  - 12-month contract: lower monthly price in exchange for a minimum term commitment.
+  - 24-month contract: lowest monthly price; early termination charges apply.
+Data allowances: 5GB, 15GB, 30GB, 60GB, 100GB, and Unlimited.
+All SIM-only plans include unlimited UK calls and unlimited UK texts as standard.
+5G access: included at no extra charge on plans 30GB and above, subject to 5G coverage.
+On plans under 30GB, 5G is available as a £3/month add-on.
+
+Phone Plans (handset + SIM)
+A new smartphone bundled with a VoltMobile SIM plan. The handset cost is spread across
+the contract term — customers pay a monthly amount covering both the service and the
+device. This is a regulated credit arrangement under the Consumer Credit Act 1974.
+Available terms: 24 months (standard), 36 months (lower monthly cost, longer commitment).
+Handset brands available: Apple iPhone, Samsung Galaxy, Google Pixel, Nothing Phone.
+An upfront cost (deposit) may apply depending on the handset value and the customer's
+credit assessment. The upfront cost is shown clearly at checkout and cannot be waived.
+Credit assessment: all phone plan applications are subject to a credit check by our
+lending partner, Duologi Finance Ltd. Customers who do not pass the credit check are
+offered a SIM-only plan instead. Credit decisions cannot be overridden by Voltex agents.
+
+Prepay (Pay As You Go)
+No monthly contract. Customer tops up credit and pays per use.
+Available in store only. Not available online or by phone.
+Bundles: prepay customers can purchase monthly bundles (calls, texts, and data for
+a fixed price) that expire after 30 days. Unused bundle allowance does not roll over.
+Prepay plans do not include roaming — international calls and texts are charged at
+prepay rates, which are significantly higher than contract rates.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PART 3 — ALLOWANCES, FAIR USE AND ADD-ONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DATA ALLOWANCES AND FAIR USE
+
+Standard data allowances are for UK use. Using your allowance in the UK works as stated
+on your plan — there are no speed caps or throttling during normal use.
+
+Unlimited data plans: VoltMobile's Unlimited plans provide genuinely unlimited data
+for personal use. A fair use policy applies to prevent use that adversely affects
+the network for other customers:
+  - Tethering (using your phone as a Wi-Fi hotspot) is permitted up to 30GB per month
+    on Unlimited plans. Above 30GB of tethering, speeds may be reduced.
+  - Using a SIM in a router or other non-phone device is not permitted on SIM-only plans.
+    A dedicated data SIM is required for this use — ask about our VoltMobile Data SIM plans.
+  - Commercial use of consumer SIM plans (reselling data, running a business service
+    from a consumer SIM) is not permitted and will result in plan suspension.
+
+Data rollover: unused monthly data does not roll over to the next month on any plan
+except the VoltMobile Flex plans (30GB and 60GB Flex only — see below).
+
+VoltMobile Flex Plans: available on 30GB and 60GB monthly rolling plans. Unused data
+from one month rolls over for a maximum of one additional month. Rolled-over data is
+used before current month's allowance. Rolled-over data cannot be gifted or transferred.
+
+DATA ADD-ONS
+If a customer runs out of data before the end of their billing month:
+  - A data boost of 1GB (£2.50), 3GB (£5.00), or 5GB (£7.50) can be purchased
+    in the VoltMobile app or by calling 0333 400 9000.
+  - Data boosts expire at the end of the current billing month — unused boost data
+    is not carried over.
+  - Data boosts are available on all contract plans. Not available on prepay
+    (prepay customers must purchase a new bundle).
+
+WITHOUT A DATA ADD-ON: once a customer's data allowance is exhausted, mobile data
+is paused — the customer is not automatically charged for additional data. They
+receive an SMS notification when at 80% and again at 100% of their allowance.
+AGENT NOTE: some customers call believing they have been charged for excess data.
+Under VoltMobile's plan structure, this cannot happen on UK data — data is capped,
+not charged-over. If the customer sees an unexpected charge, it is more likely to be
+a roaming charge, a premium rate call, or a third-party charge (see Part 7).
+
+INTERNATIONAL CALLS AND TEXTS FROM THE UK (TO OVERSEAS NUMBERS)
+
+Calling or texting an overseas number while in the UK (e.g. calling a family member
+abroad from a UK location) is not included in standard plan allowances.
+Rates for international calls from UK:
+  - Republic of Ireland: 5p per minute (all plans)
+  - EU countries: 12p per minute (all plans)
+  - USA and Canada: 8p per minute (all plans)
+  - Rest of world: 25p–£1.50 per minute depending on destination
+International texts from UK: 25p per text to any international number.
+International calling add-on: £5/month — includes 100 minutes to EU, USA, Canada,
+and Republic of Ireland. Available on all contract plans.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PART 4 — ROAMING (USING YOUR PHONE ABROAD)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+This section covers using your VoltMobile SIM in another country.
+Roaming is a significant source of customer confusion and unexpected charges.
+Agents must understand the difference between EU roaming, rest-of-world roaming,
+and the plan tier roaming inclusions before advising customers.
+
+UK NETWORKS AND EU ROAMING — POST-BREXIT CONTEXT
+
+Since the UK left the EU, UK mobile networks are no longer required to offer
+free EU roaming as they were under EU regulations. VoltMobile's roaming policy
+depends on the plan tier:
+
+Plans 60GB and above (including all Unlimited plans):
+EU roaming is included at no extra charge. You can use your UK data, calls, and
+texts allowance in any EU country as if you were in the UK.
+Fair use limit applies: up to 15GB of EU roaming data per month on plans under
+Unlimited. On Unlimited plans, the same 30GB tethering cap applies abroad.
+Covered EU destinations: all 27 EU member states plus Iceland, Liechtenstein,
+Norway, and Switzerland (the EEA countries).
+NOTE: EU roaming inclusion does NOT extend to Turkey, Morocco, Egypt, or other
+non-EEA countries that are popular holiday destinations. Customers frequently
+assume these are included — always check the destination specifically.
+
+Plans under 60GB (5GB, 15GB, 30GB SIM-only and equivalent phone plans):
+EU roaming is NOT included as standard. A Roaming Pass is required.
+EU Roaming Pass: £10 for 14 days. Includes 10GB data, unlimited calls and texts
+within the EU. Can be purchased in the VoltMobile app or by calling 0333 400 9000.
+Must be purchased before travel — it cannot be applied retrospectively to charges
+already incurred.
+
+WITHOUT A ROAMING PASS ON PLANS UNDER 60GB:
+Data: £0.50 per MB (equates to £500 per GB — extremely expensive).
+Calls received: £0.20 per minute.
+Calls made within the visited country: £0.60 per minute.
+Calls back to the UK: £1.20 per minute.
+Texts sent: £0.30 per text.
+A roaming data cap of £30 applies — once £30 of roaming charges is reached,
+data roaming is automatically suspended. The cap does not apply to calls and texts.
+AGENT NOTE: if a customer has incurred significant roaming charges, check whether
+they were on a plan that should have included roaming but did not due to a plan
+configuration error. If a Voltex agent mis-sold the plan or failed to inform the
+customer of roaming costs, a goodwill adjustment may be appropriate — escalate to
+Team Leader with full account history.
+
+REST OF WORLD ROAMING
+
+Countries outside the EU/EEA are divided into three roaming zones:
+Zone A (USA, Canada, Australia, New Zealand, Japan, South Korea, UAE, Israel):
+  Roaming Pass A: £12 for 14 days. Includes 5GB data, unlimited calls and texts
+  to the local network and back to the UK.
+
+Zone B (India, Pakistan, Bangladesh, South Africa, Brazil, Mexico, Malaysia,
+Singapore, Thailand, Philippines, Indonesia, Kenya, Nigeria, Jamaica):
+  Roaming Pass B: £15 for 14 days. Includes 3GB data, unlimited calls and texts.
+
+Zone C (all other destinations not listed in Zone A or B):
+  Roaming Pass C: £20 for 14 days. Includes 2GB data; calls and texts at
+  the rates listed on voltex.co.uk/voltmobile-roaming.
+  Some destinations in Zone C have restricted data availability due to local
+  network limitations — check the destination page before travel.
+
+Countries where VoltMobile roaming is NOT available:
+Cuba, North Korea, Iran, Syria, and a small number of other destinations due to
+sanctions or lack of network agreements. Customers travelling to these destinations
+cannot use their VoltMobile SIM and should purchase a local SIM on arrival.
+Current full list: voltex.co.uk/voltmobile-roaming-restricted.
+
+ROAMING TIPS FOR AGENTS ADVISING CUSTOMERS BEFORE TRAVEL
+Always confirm the specific country or countries the customer will visit.
+Check whether the destination is EU/EEA, Zone A, B, or C, or restricted.
+Confirm the customer's current plan — determine whether EU roaming is included.
+If a Roaming Pass is needed, advise the customer to purchase before departure.
+Remind the customer that Roaming Passes cannot be applied retrospectively.
+For customers visiting multiple countries across different zones: they need a
+separate Roaming Pass for each zone, or the pass covering their primary destination.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PART 5 — NUMBER PORTING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Number porting allows you to bring your existing mobile number to VoltMobile from
+your current network. This is a regulated process governed by Ofcom rules.
+
+HOW TO PORT YOUR NUMBER TO VOLTMOBILE
+
+Step 1 — Obtain a PAC code from your current network.
+A PAC (Porting Authorisation Code) is a unique code your current network must provide
+within 2 hours of your request, at any time 24 hours a day, 7 days a week. This is an
+Ofcom requirement — your current network cannot refuse or delay providing a PAC.
+You can request a PAC by texting PAC to 65075 (free, works on any UK network)
+or by calling your current network directly.
+Your PAC is valid for 30 days from the date of issue.
+
+Step 2 — Provide the PAC to VoltMobile when activating your SIM.
+Online: enter during checkout at voltex.co.uk/voltmobile.
+In store: give the PAC to the colleague activating your SIM.
+By phone: 0333 400 9000.
+
+Step 3 — Porting timescale.
+Porting typically completes by midnight on the first working day after VoltMobile
+submits the port request to EE and your current network. You will receive an SMS
+from VoltMobile confirming the port completion time.
+During the porting window: there may be a period (typically 2 to 4 hours) during
+which your number is temporarily unavailable on both networks while the port completes.
+This is normal. If your number is unavailable for more than 24 hours, contact us.
+
+Step 4 — After porting is complete.
+Your old SIM from your previous network will stop working. Insert your VoltMobile
+SIM if you have not already done so. Restart your phone after inserting the SIM.
+
+PORTING AWAY FROM VOLTMOBILE
+
+If you wish to take your number to a different network:
+Text PAC to 65075 (free) or call 0333 400 9000 to request your PAC.
+VoltMobile will provide your PAC within 2 hours as required by Ofcom.
+AGENT NOTE: we are required to provide the PAC promptly. We should not attempt to
+retain the customer by delaying the PAC or making the process unnecessarily difficult.
+We may offer the customer a retention deal — a better plan or price — but only after
+confirming we will provide the PAC and that the decision is theirs. We must not make
+the retention offer conditional on the customer not receiving their PAC.
+
+PORTING ERRORS
+If a customer's number has not ported correctly (wrong number ported, porting failed,
+or number is in a perpetual unavailable state):
+This is a priority case. Log immediately in CRM and escalate to the Porting Team.
+The Porting Team has direct contact with EE's porting systems and can resolve most
+porting errors within 4 business hours.
+Do not ask the customer to wait standard response times for a porting error — their
+number being unavailable is a significant service failure.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PART 6 — UPGRADING, CANCELLING AND EARLY TERMINATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+UPGRADING YOUR PLAN OR HANDSET
+
+SIM-only plan upgrade (moving to a higher data tier or different plan):
+Available at any time. Upgrades take effect from the next billing date.
+Downgrading: available on monthly rolling plans at any time.
+On 12-month or 24-month contracts: downgrading to a lower data tier is not permitted
+mid-contract. The customer must wait until the contract end date.
+
+Phone plan upgrade (new handset before contract end):
+Early upgrade is available from month 18 of a 24-month contract, subject to:
+  - Account in good standing (no missed payments in the last 3 months)
+  - Credit reassessment (a new credit check is conducted for the new handset agreement)
+Early upgrade before month 18: not available as standard. Team Leader can authorise
+an exception in very limited circumstances — for example, a handset that is genuinely
+beyond repair and the customer has no VoltCare claim available.
+Early upgrade process: the remaining balance on the current handset agreement is
+settled (either paid by the customer or rolled into the new agreement — customer choice).
+The new agreement starts immediately.
+
+END OF CONTRACT NOTIFICATION
+VoltMobile sends a notification 45 days before contract end by SMS and email,
+explaining the customer's options: upgrade, switch to a SIM-only plan, or cancel.
+At the contract end date, phone plan customers who take no action are automatically
+moved to a monthly rolling SIM-only equivalent plan at the prevailing rate.
+The handset is fully owned by the customer at contract end — no further payments
+are due on the device.
+
+CANCELLATION — SIM-ONLY MONTHLY ROLLING PLANS
+
+30 days notice required. Notice can be given:
+By texting CANCEL to 88020 (free)
+By calling 0333 400 9000
+Via the VoltMobile app under Account > Cancel plan
+The plan continues through the 30-day notice period and the customer is billed normally
+for this final month. The SIM is deactivated at the end of the notice period.
+Refunds are not given for the notice period — the customer has service throughout.
+
+CANCELLATION — SIM-ONLY 12-MONTH AND 24-MONTH CONTRACTS
+
+Within 14 days of the contract start date (cooling-off period):
+Full cancellation with no early termination charge. Return the SIM (or destroy it —
+no physical return required). Any usage charges incurred during the 14-day period
+(calls, texts, data used) are billed and must be paid.
+After 14 days:
+Early termination charge applies. The charge is calculated as:
+  Sum of remaining monthly payments × 0.97 (a 3% discount applied per Ofcom guidance).
+  Example: 10 months remaining at £15/month = £150 × 0.97 = £145.50 early termination charge.
+The early termination charge covers the service portion of the contract only.
+
+CANCELLATION — PHONE PLANS (HANDSET + SIM)
+
+Phone plans consist of two elements: the service agreement and the handset credit agreement.
+These are legally separate:
+Service agreement: cancelled with 30 days notice (monthly rolling) or via early
+termination charge calculation above (fixed term).
+Handset credit agreement: the remaining balance of the handset must be settled in full
+on cancellation. Early settlement of a regulated credit agreement incurs no penalty
+under the Consumer Credit Act — the customer simply pays the outstanding balance.
+The outstanding handset balance is shown in the VoltMobile app under My Agreement.
+AGENT NOTE: the total early exit cost for a phone plan is the service early termination
+charge PLUS the handset settlement balance. Customers frequently underestimate this.
+Always quote both figures clearly and separately so the customer can make an informed decision.
+Never quote only the service ETC without mentioning the handset settlement.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PART 7 — BILLING, CHARGES AND DISPUTES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+BILLING CYCLE AND PAYMENT
+
+VoltMobile bills monthly. Your billing date is the anniversary of your contract start date.
+Bills are issued by email and are visible in the VoltMobile app and at voltex.co.uk/my-account.
+Payment is collected by Direct Debit or continuous card payment 7 days after the bill date.
+This 7-day gap gives customers time to review their bill and raise any disputes before payment.
+
+UNDERSTANDING YOUR BILL
+
+Your monthly bill contains:
+  - Base plan charge: your standard monthly plan cost
+  - Any add-ons activated during the month (data boosts, roaming passes, calling add-ons)
+  - Out-of-allowance charges (roaming charges not covered by a pass; premium rate calls;
+    international calls from the UK)
+  - Any one-off charges (late payment fee, SIM replacement fee)
+  - Credit adjustments (goodwill credits, compensation credits)
+
+LATE PAYMENT
+
+If payment fails on the collection date:
+Day 1: payment failure. Automated retry in 3 days.
+Day 4: second attempt. If failed, SMS and email notification sent.
+Day 10: third and final attempt. If failed, a £5 late payment fee is applied
+and the account enters a restricted state.
+Restricted state: outgoing calls and data are suspended. Incoming calls and texts
+remain active. The customer can reinstate by paying the overdue balance plus the £5 fee
+via the VoltMobile app, at a Voltex store, or by calling 0333 400 9000.
+Day 30: if balance remains unpaid, the account is suspended entirely (no incoming or outgoing).
+Day 60: account terminated. Debt passed to collections. Number permanently lost.
+AGENT NOTE: if a customer is in a restricted or suspended state and contacts us, do not
+refuse to help — take the payment on the call and reinstate the service immediately.
+If a customer explains a genuine hardship, a 7-day payment extension can be granted
+once per 12-month period by Team Leader authorisation. Document the reason in CRM.
+
+PREMIUM RATE CALLS AND THIRD-PARTY CHARGES
+
+Premium rate numbers (09xx, 087x in some cases) are charged at rates set by the
+number owner, not by VoltMobile. These are not included in any plan allowance.
+Common sources: competition lines, some customer service numbers, adult content services.
+Third-party charges: some services charge to a customer's phone bill with their consent
+(mobile payment for parking, charity donations, content subscriptions via carrier billing).
+These charges appear on the VoltMobile bill as "Third-Party Service Charge."
+If a customer does not recognise a third-party charge:
+  Step 1: check whether the customer or another user of the phone may have consented.
+  Step 2: identify the service provider — the bill shows the name of the third-party.
+  Step 3: advise the customer to contact the third-party directly to cancel and request refund.
+  Step 4: if the customer believes the charge is fraudulent (no consent given), VoltMobile
+    can apply a third-party charge bar to the account (prevents future third-party billing)
+    and raise a dispute with the third-party on the customer's behalf.
+  Third-party charge bar: free. Applied immediately by the agent on request.
+  Refund timeline: third-party disputes take 14 to 28 business days to resolve.
+  Goodwill credit: Team Leader can approve a goodwill credit up to £20 while the dispute
+    is pending if the charge is significant and the customer is in genuine hardship.
+
+BILLING DISPUTES — PROCESS
+
+If a customer believes a charge on their bill is incorrect:
+  Step 1: agent reviews the bill with the customer and identifies the disputed charge.
+  Step 2: agent checks the account for corresponding usage records (call logs, data usage,
+    roaming sessions) to determine whether the charge is supported by usage data.
+  Step 3a: if usage data does not support the charge — this is a billing error.
+    Credit the disputed amount immediately. Log in CRM as billing error.
+    Escalate to billing team for root cause investigation.
+  Step 3b: if usage data supports the charge — explain to the customer what the charge
+    relates to. If the customer maintains the charge is incorrect or disputes the usage:
+    log as a formal billing dispute. The billing team will investigate within 5 business days.
+  Step 3c: if the charge relates to roaming and the customer was unaware of roaming costs:
+    check whether the customer was on a plan where roaming should have been included.
+    If not, check whether the customer received the standard pre-travel roaming advisory
+    SMS (VoltMobile sends this automatically when a SIM connects to a foreign network).
+    If the advisory was sent and the customer still incurred charges, a partial goodwill
+    credit may be appropriate at Team Leader discretion — not automatic.
+    If the advisory was NOT sent due to a system error, full credit of roaming charges
+    is appropriate and should be authorised by Team Leader without dispute.
+IMPORTANT: never tell a customer a charge is correct without first pulling up their
+actual usage records in CRM. Customers who are told their bill is correct without
+investigation and later discover an error will escalate to a formal complaint.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PART 8 — DEVICE PROTECTION: VOLTMOBILE VS VOLTCARE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Customers with a phone on VoltMobile may also have VoltCare on their handset.
+These are separate products covering different risks. Agents must understand the
+distinction clearly to direct claims correctly.
+
+VOLTCARE ON A VOLTMOBILE HANDSET
+
+VoltCare Plus or Complete on a phone covers:
+  - Mechanical and electrical breakdown
+  - Accidental damage (screen cracks, liquid damage, drops)
+VoltCare does NOT cover:
+  - Theft or loss
+  - Damage while abroad beyond what accidental damage covers
+
+VOLTMOBILE DEVICE INSURANCE (sold separately via Duologi Insurance)
+
+Available as an add-on at checkout when purchasing a phone plan. From £7.99/month.
+Covers: theft, loss, accidental damage, breakdown (including when abroad).
+This is a separate insurance product underwritten by Duologi Insurance Ltd.
+Claims are handled by Duologi Insurance, not by Voltex or VoltMobile.
+VoltMobile device insurance claim line: 0333 400 9001.
+
+WHICH PRODUCT TO USE FOR WHICH CLAIM
+
+Breakdown fault (phone stopped working, battery failure, hardware fault):
+  → VoltCare claim if the customer has VoltCare. Handled by Voltex repair team.
+  → VoltMobile device insurance if the customer does not have VoltCare. Handled by Duologi.
+Accidental damage (cracked screen, liquid damage):
+  → VoltCare Plus or Complete if the customer has it. Handled by Voltex.
+  → VoltMobile device insurance if the customer has it and no VoltCare. Handled by Duologi.
+  → If the customer has both: VoltCare is typically faster and has no insurance excess
+    (only the VoltCare excess applies). Advise the customer to use VoltCare first.
+Theft or loss:
+  → VoltMobile device insurance ONLY. VoltCare does not cover theft or loss.
+  → If the customer does not have VoltMobile device insurance, this is a matter for
+    their home contents insurance.
+  → Agents must also advise the customer to: (1) report the theft to the police and
+    obtain a crime reference number — required by Duologi Insurance for theft claims;
+    (2) contact VoltMobile to bar the SIM immediately to prevent fraudulent usage
+    charges. SIM barring is immediate and free — done by agent on the call.
+
+SIM BARRING FOR LOST OR STOLEN PHONES
+
+If a customer reports their phone as lost or stolen, bar the SIM immediately:
+This prevents fraudulent calls, texts, and data usage being charged to the account.
+Usage charges incurred before the bar is applied are the customer's responsibility.
+Usage charges after the bar is confirmed as applied are VoltMobile's responsibility
+and will be credited automatically.
+The customer's number is preserved for 90 days while the SIM is barred.
+If the phone is recovered within 90 days: the SIM can be reinstated by calling
+0333 400 9000. The customer's number and account are fully restored.
+After 90 days with no reinstatement request: the number is released back to the
+number pool and cannot be recovered. A new SIM is issued if the customer wishes to continue.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PART 9 — COMMON VOLTMOBILE QUESTIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Q: I have no signal at home — what can I do?
+A: Check voltex.co.uk/voltmobile-coverage for your postcode. If coverage is shown as
+good in your area, the issue may be building-related — thick walls and basement
+locations significantly reduce signal indoors. EE's network offers Wi-Fi Calling on
+VoltMobile — enabling this in your phone settings allows calls and texts over your
+home broadband connection when mobile signal is weak. Most modern Android and iPhone
+devices support Wi-Fi Calling. To enable: on iPhone, go to Settings > Phone > Wi-Fi Calling.
+On Android: Settings > Connections > Wi-Fi Calling (location varies by manufacturer).
+If your postcode shows limited or no coverage, this is a genuine gap in the EE network.
+VoltMobile cannot guarantee coverage at a specific location — if the coverage gap is
+persistent and the customer purchased the plan believing coverage was adequate, they
+may be entitled to exit their contract without an early termination charge. Escalate
+to Team Leader for assessment — this is a contract viability decision.
+
+Q: My phone says "No Service" or "Emergency Calls Only" — what does that mean?
+A: "Emergency Calls Only" means the phone can detect a signal but your SIM is not
+being recognised by the network. This is different from having no signal.
+Common causes:
+  - SIM not seated correctly in the SIM tray — ask the customer to remove and reinsert
+  - SIM damaged or faulty — a free SIM replacement can be sent (2 to 3 business days)
+    or collected from a Voltex store
+  - Account suspended due to non-payment — check account status in CRM
+  - Very rare: network authentication issue — can be resolved by the technical team;
+    a network refresh can be triggered remotely in some cases
+If the customer has recently moved to a new phone: confirm the SIM has been physically
+transferred and that the new phone is not carrier-locked to a different network.
+
+Q: Why is my 5G not working even though I have a 5G phone?
+A: Several conditions must all be true for 5G to work:
+  1. The customer must be on a VoltMobile plan that includes 5G (30GB and above, or
+     lower plans with the 5G add-on)
+  2. The phone must be a 5G-capable device
+  3. The customer must be in an area with VoltMobile 5G coverage (check coverage map)
+  4. 5G must be enabled in the phone settings (Settings > Mobile Network > Network Mode
+     should show 5G/4G/3G/2G Auto — not 4G only)
+If all four are true and 5G still does not show: this is a network or device issue.
+Ask the customer to restart the phone. If the issue persists, escalate to technical support.
+
+Q: I have been charged for roaming but I never left the UK
+A: This is extremely rare but can occur in areas near international borders where
+a device inadvertently connects to a foreign network (e.g. near the Northern Ireland
+border, on a ferry in the English Channel before leaving UK waters, in a coastal area
+with signal from a nearby French or Irish mast).
+If the customer is certain they did not leave the UK: check the roaming session records
+in CRM. If the roaming session shows a timestamp and location consistent with border
+proximity, this is a genuine if unintentional roaming event. Team Leader can approve
+a goodwill credit for border-proximity roaming charges — this is assessed case by case.
+
+Q: What happens to my number if I cancel VoltMobile?
+A: Your number remains active on VoltMobile until the cancellation takes effect.
+If you want to take your number to a new network, request a PAC code before your
+VoltMobile service ends — PAC codes can be used to port the number to the new network
+after cancellation takes effect. The number remains portable for 30 days from the
+PAC issue date, even after the VoltMobile account has closed.
+If you do not port the number and simply cancel: the number is deactivated and returns
+to the number pool. It cannot be recovered after deactivation.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+QUICK REFERENCE — FOR AGENTS AND CUSTOMERS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+VoltMobile customer line: 0333 400 9000 | Mon–Sun 8am–10pm
+Device insurance claims (Duologi): 0333 400 9001
+Coverage checker: voltex.co.uk/voltmobile-coverage
+Network status: voltex.co.uk/network-status
+Roaming information: voltex.co.uk/voltmobile-roaming
+Restricted destinations: voltex.co.uk/voltmobile-roaming-restricted
+Account management and app: voltex.co.uk/my-account
+PAC code request: text PAC to 65075 (free, works on any network)
+
+AGENT QUICK DECISION GUIDE — VOLTMOBILE
+
+No signal in specific location → check network status; if no outage, check coverage map;
+  if coverage gap, assess contract viability — escalate to TL for ETC waiver consideration
+
+Unexpected bill charge → pull usage records before confirming or denying;
+  never tell a customer the charge is correct without checking first
+
+Roaming charge dispute → check whether plan includes roaming; check whether pre-travel
+  advisory SMS was sent; if not sent due to system error, credit in full
+
+Third-party charge not recognised → apply third-party charge bar immediately;
+  raise dispute with third-party; TL can approve up to £20 goodwill while pending
+
+Customer wants to cancel phone plan → quote BOTH service ETC AND handset settlement
+  balance; never quote service ETC alone
+
+Porting error (number unavailable) → priority case; escalate to Porting Team immediately;
+  do not ask customer to wait standard timelines
+
+Lost or stolen phone → bar SIM immediately on the call; advise police report for
+  insurance claim; preserve number for 90 days; advise Duologi for insurance claim
+
+Customer wants PAC to leave VoltMobile → provide PAC within 2 hours; retention offer
+  is permitted but must not be conditional on withholding the PAC
