@@ -1,0 +1,62 @@
+name: Voltex Co-Pilot CI
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  test:
+    name: Run test suite
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Cache pip dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Create required directories
+        run: |
+          mkdir -p knowledge_base
+          mkdir -p chroma_db
+          mkdir -p evaluation
+
+      - name: Create stub knowledge base files
+        run: |
+          echo "VOLTEX STUB DOCUMENT FOR CI" > knowledge_base/voltcare_policy.txt
+          echo "VOLTEX STUB DOCUMENT FOR CI" > knowledge_base/repairs_returns_policy.txt
+          echo "Q: What is VoltCare?" >> knowledge_base/product_faqs.txt
+          echo "A: VoltCare is Voltex protection plan." >> knowledge_base/product_faqs.txt
+          echo "VOLTEX STUB DOCUMENT FOR CI" > knowledge_base/delivery_orders_policy.txt
+          echo "VOLTEX STUB DOCUMENT FOR CI" > knowledge_base/voltmobile_policy.txt
+
+      - name: Set dummy environment variables
+        run: echo "ANTHROPIC_API_KEY=sk-ant-dummy-key-for-ci-testing" >> $GITHUB_ENV
+
+      - name: Run chunking tests
+        run: python -m pytest tests/test_chunking.py -v
+
+      - name: Run schema tests
+        run: python -m pytest tests/test_schema.py -v
+
+      - name: Run copilot unit tests
+        run: python -m pytest tests/test_copilot_unit.py -v
+
+      - name: Run full test suite with coverage summary
+        run: python -m pytest tests/ -v --tb=short
