@@ -20,7 +20,7 @@ from typing import Literal
 from pathlib import Path
 
 import chromadb
-from sentence_transformers import SentenceTransformer
+from sentence_transformers import SentenceTransformer, CrossEncoder
 from pydantic import BaseModel, Field
 from anthropic import Anthropic
 from dotenv import load_dotenv
@@ -85,6 +85,48 @@ class CopilotResponse(BaseModel):
                     "Empty string if escalate is False."
     )
 
+# ─────────────────────────────────────────────
+# DETERMINISTIC ESCALATION RULES
+# ─────────────────────────────────────────────
+
+ESCALATION_RULES = [
+    # Pattern, reason
+    (["ombudsman", "financial ombudsman", "retail ombudsman"],
+     "Customer mentioned ombudsman — formal complaint process required"),
+    (["trading standards", "trading standard"],
+     "Trading Standards reference — compliance team must be involved"),
+    (["never left the uk", "didn't leave the uk", "did not leave the uk",
+      "stayed in the uk", "roaming charge", "roaming charges"],
+     "Roaming charge dispute — check border proximity; TL authorisation for goodwill credit"),
+    (["couldn't get through", "couldn't fit", "couldn't get it through",
+      "wouldn't fit", "too wide", "too big for the door", "through the door"],
+     "Access failure on large item delivery — failed delivery charge waiver assessment required"),
+    (["misdescription", "not as described", "wrong description",
+      "listing said", "advertised as", "description was wrong"],
+     "Potential misdescription — statutory rights apply at any time; escalate to Trading Standards team"),
+    (["third party repaired", "neighbour fixed", "friend fixed",
+      "someone else fixed", "already been repaired", "repaired before"],
+     "Potential unauthorised repair — cannot confirm voidance on call; repair team assessment needed"),
+    (["vulnerable", "bereavement", "recently lost", "mental health",
+      "dementia", "elderly", "disability", "hardship"],
+     "Vulnerable customer indicator — extended cooling-off and payment plan options available"),
+    (["fraud", "fraudulent", "scam", "stolen my details",
+      "identity theft"],
+     "Fraud or identity theft — security team escalation required"),
+]
+
+
+def check_deterministic_escalation(message: str) -> tuple[bool, str]:
+    """
+    Checks the customer message against known escalation patterns.
+    Returns (should_escalate, reason) tuple.
+    Runs before LLM reasoning — deterministic and free.
+    """
+    message_lower = message.lower()
+    for patterns, reason in ESCALATION_RULES:
+        if any(p in message_lower for p in patterns):
+            return True, reason
+    return False, ""
 
 # ─────────────────────────────────────────────
 # VOLTEX CO-PILOT CLASS
@@ -114,9 +156,12 @@ class VoltexCoPilot:
         print(f"  Collection '{COLLECTION_NAME}' loaded — {chunk_count} chunks")
 
         # Conversation history for multi-turn context
-        # Stores the last N turns of the conversation
         self.conversation_history = []
-        self.MAX_HISTORY_TURNS = 4   # 4 turns = 8 messages (user + assistant)
+        self.MAX_HISTORY_TURNS = 4
+
+        # Cross-encoder re-ranker — scores top-N chunks for precise relevance
+        print(f"  Loading cross-encoder re-ranker...")
+        self.reranker = CrossEncoder("cross-encoder/ms-marco-MiniLM-L-6-v2")
 
         print("  Co-Pilot ready.\n")
 
@@ -150,29 +195,49 @@ class VoltexCoPilot:
 
         prompt = f"""You are helping a contact centre agent at Voltex, a UK technology and appliances retailer.
 
-A customer has just said the following:
-"{customer_message}"
-{history_context}
-Your job is to output a JSON object with exactly two fields:
+        A customer has just said the following:
+        "{customer_message}"
+        {history_context}
+        Your job is to output a JSON object with exactly two fields:
 
-1. "rewritten_query": Rewrite the customer's message as a precise search query for a retail knowledge base. 
-   Use specific retail/policy terminology. Replace vague terms with precise ones.
-   Examples:
-   - "my phone won't turn on" → "phone hardware failure repair warranty claim"
-   - "going to Spain next week" → "EU roaming VoltMobile phone usage abroad"
-   - "the fridge I ordered hasn't arrived" → "large item delivery missed failed delivery white goods"
-   - "I want to cancel" → "contract cancellation early termination VoltMobile SIM plan"
+        1. "rewritten_query": Rewrite the customer's message as a precise search query for a retail knowledge base.
+        Use specific retail and policy terminology. Replace ALL vague or colloquial terms with precise ones.
 
-2. "category": The single most relevant knowledge base category. Must be exactly one of:
-   - "voltcare" — warranty, care plans, VoltCare claims, repair cover
-   - "returns_repairs" — returns, refunds, exchanges, repairs, Consumer Rights Act
-   - "products" — product specifications, buying advice, technical questions
-   - "delivery_orders" — delivery, tracking, click and collect, VoltInstall, order amendments
-   - "voltmobile" — VoltMobile SIM plans, phone contracts, roaming, billing, porting
-   - "general" — only if the query genuinely spans multiple categories equally
+        CRITICAL TRANSLATION EXAMPLES — always apply these patterns:
+        - "battery drains fast / dies quickly / doesn't last" → "laptop battery degradation premature failure warranty coverage charge cycles"
+        - "phone won't turn on / died / stopped working" → "phone hardware failure repair warranty claim"
+        - "going to [any country]" → identify if EU/EEA or not, then: "EU roaming VoltMobile phone usage abroad" OR "Zone A/B/C roaming VoltMobile abroad"
+        - "charged for roaming / roaming bill" + "didn't leave UK" → "border proximity roaming charge dispute goodwill credit"
+        - "fridge/washer/TV didn't arrive / not delivered" → "large item delivery missed failed delivery [product type]"
+        - "cancel contract / leave VoltMobile" → "contract cancellation early termination VoltMobile SIM plan"
+        - "stop paying / not pay" → "contract non-payment default consequences debt collection"
+        - "screen has lines / display fault / TV broken" → "screen fault manufacturing defect warranty statutory rights"
+        - "couldn't get it through the door / doesn't fit" → "large item delivery access failure failed delivery doorway width"
+        - "neighbour / friend / third party fixed it" → "unauthorised repair third party voided VoltCare cover"
+        - "bought it as a gift / giving as present" → "gift purchase return refund proof of purchase"
+        - "product listing said / advertised as / description wrong" → "product misdescription not as described statutory rights Trading Standards"
+        - "been with you for years / long-standing customer" → "customer retention goodwill discretionary"
+        - "ombudsman / complain / escalate" → "formal complaint escalation Financial Ombudsman"
+        - "how do I claim / make a claim / start a claim" → "VoltCare claim process steps VC- plan reference voltex.co.uk online phone store"
 
-Respond with ONLY the JSON object. No explanation, no markdown, no preamble.
-Example: {{"rewritten_query": "EU roaming VoltMobile phone usage abroad", "category": "voltmobile"}}"""
+        2. "category": The single most relevant knowledge base category. Must be exactly one of:
+        - "voltcare" — warranty, care plans, VoltCare claims, repair cover
+        - "returns_repairs" — returns, refunds, exchanges, repairs, Consumer Rights Act
+        - "products" — product specifications, buying advice, technical questions
+        - "delivery_orders" — delivery, tracking, click and collect, VoltInstall, order amendments
+        - "voltmobile" — VoltMobile SIM plans, phone contracts, roaming, billing, porting
+        - "general" — only if the query genuinely spans multiple categories equally
+
+        CATEGORY DECISION RULES:
+        - Any mention of roaming, SIM, phone plan, mobile data, PAC code → "voltmobile"
+        - Any mention of delivery, arrived, didn't come, tracking, install → "delivery_orders"
+        - Any mention of VoltCare, warranty, claim, repair cover → "voltcare"
+        - Any mention of return, refund, broken, fault, Consumer Rights → "returns_repairs"
+        - Any mention of which TV/laptop/washer to buy, specs, difference between → "products"
+        - Battery questions: if about laptop battery life/performance → "products"; if about warranty coverage for battery → "voltcare"
+
+        Respond with ONLY the JSON object. No explanation, no markdown, no preamble.
+        Example: {{"rewritten_query": "EU roaming VoltMobile phone usage abroad", "category": "voltmobile"}}"""
 
         response = self.client.messages.create(
             model=CLAUDE_MODEL,
@@ -250,6 +315,14 @@ Example: {{"rewritten_query": "EU roaming VoltMobile phone usage abroad", "categ
                 "section"   : meta.get("section", ""),
                 "similarity": round(1 - dist, 3),
             })
+
+        # Re-rank with cross-encoder for precise relevance scoring
+        if chunks:
+            pairs = [(rewritten_query, chunk["text"]) for chunk in chunks]
+            rerank_scores = self.reranker.predict(pairs).tolist()
+            for chunk, score in zip(chunks, rerank_scores):
+                chunk["rerank_score"] = round(float(score), 3)
+            chunks = sorted(chunks, key=lambda x: x["rerank_score"], reverse=True)
 
         return chunks
 
@@ -379,6 +452,9 @@ Based on the knowledge base excerpts above, generate the CopilotResponse JSON fo
         # Step 3: retrieve
         retrieved_chunks = self._retrieve(rewritten_query, category)
 
+        # Step 3.5: deterministic escalation check
+        rule_escalate, rule_reason = check_deterministic_escalation(customer_message)
+
         # Step 4: reason
         copilot_response = self._reason(
             customer_message,
@@ -386,6 +462,13 @@ Based on the knowledge base excerpts above, generate the CopilotResponse JSON fo
             retrieved_chunks,
             self.conversation_history,
         )
+
+        # Step 4.5: override escalation with deterministic rules if triggered
+        if rule_escalate and not copilot_response.escalate:
+            copilot_response = copilot_response.model_copy(update={
+                "escalate": True,
+                "escalation_reason": rule_reason,
+            })
 
         # Update conversation history
         self.conversation_history.append({

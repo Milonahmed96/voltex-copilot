@@ -18,8 +18,8 @@ COLLECTION_NAME    = "voltex_knowledge"
 EMBEDDING_MODEL    = "all-MiniLM-L6-v2"
 
 # Policy document chunking settings
-POLICY_CHUNK_SIZE    = 400   # characters per chunk
-POLICY_CHUNK_OVERLAP = 80    # characters of overlap between consecutive chunks
+POLICY_CHUNK_SIZE    = 600   # characters per chunk
+POLICY_CHUNK_OVERLAP = 150    # characters of overlap between consecutive chunks
 
 # Document type routing
 FAQ_DOCUMENTS = {
