@@ -3,9 +3,15 @@
 > AI-powered contact centre assistant for Voltex Retail — a fictional UK omnichannel technology and appliances retailer built as an AI engineering simulation project.
 
 [![CI](https://github.com/Milonahmed96/voltex-copilot/actions/workflows/ci.yml/badge.svg)](https://github.com/Milonahmed96/voltex-copilot/actions/workflows/ci.yml)
+[![Live Demo](https://img.shields.io/badge/live%20demo-streamlit-FF4B4B)](https://voltex-copilot-ssckdkfbuq3diathsc66z8.streamlit.app/)
 ![Python](https://img.shields.io/badge/python-3.11-blue)
 ![Evaluation](https://img.shields.io/badge/evaluation-82.0%25-brightgreen)
 ![Tests](https://img.shields.io/badge/tests-33%20passing-brightgreen)
+
+## Live Demo
+
+🚀 **[Try Voltex Co-Pilot here](https://voltex-copilot-ssckdkfbuq3diathsc66z8.streamlit.app/)**
+
 
 ---
 
