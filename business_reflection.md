@@ -4,7 +4,8 @@
 **Author:** Milon Ahmed  
 **Date:** March 2026  
 **Stack:** Python, ChromaDB, sentence-transformers, Claude Sonnet, Streamlit  
-**Evaluation score:** 78.3% (141/180) across 30 golden test questions  
+**Evaluation score:** Evaluation score: 82.0% combined across 50 questions (30 golden set + 20 independent). System generalises — independent set scored 83.3% vs 81.1% on tuned golden set.
+**Retrival Score:** from 90% to 93.3%. 
 
 ---
 
