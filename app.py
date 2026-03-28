@@ -5,6 +5,13 @@ Streamlit UI v2
 
 import streamlit as st
 from copilot import VoltexCoPilot
+import subprocess
+from pathlib import Path
+
+# Auto-build ChromaDB index if it doesn't exist
+if not Path("chroma_db").exists():
+    with st.spinner("Building knowledge base index for first run..."):
+        subprocess.run(["python", "ingest.py"], check=True)
 
 # ─────────────────────────────────────────────
 # PAGE CONFIG
