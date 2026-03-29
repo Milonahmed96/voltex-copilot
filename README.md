@@ -252,13 +252,16 @@ All 33 tests pass without an API key — external dependencies are fully mocked.
 
 ## Business Context
 
-This project was built as part of a simulation to develop genuine business understanding of AI engineering in UK retail. The three projects in this series are:
-
-| B — Contact Centre Co-Pilot | [voltex-copilot](https://github.com/Milonahmed96/voltex-copilot) · [Live demo](https://voltex-copilot-ssckdkfbuq3diathsc66z8.streamlit.app/) | RAG-powered agent assistant, 82% evaluation accuracy |
-| A — ShopFloor Analyst | [voltex-shopfloor](https://github.com/Milonahmed96/voltex-shopfloor) · [Live demo](https://voltex-shopfloor-ma.streamlit.app/) | LLM store operations reasoning, 37 tests |
-| C — Repair Triage Agent | coming soon | LangGraph agentic repair routing |
+## Part of the Voltex AI Engineering Series
 
 The fictional retailer Voltex is modelled on the operational structure of UK omnichannel tech retailers, with realistic policy complexity, service architecture (MVNO, extended warranty, in-house repair centre), and contact centre scale.
+
+| Project | Repo | Demo | Key metrics |
+|---|---|---|---|
+| B — Contact Centre Co-Pilot | [voltex-copilot](https://github.com/Milonahmed96/voltex-copilot) | [Live](https://voltex-copilot-ssckdkfbuq3diathsc66z8.streamlit.app/) | 82% accuracy, 50 questions, 33 tests |
+| A — ShopFloor Analyst | [voltex-shopfloor](https://github.com/Milonahmed96/voltex-shopfloor) | [Live](https://voltex-shopfloor-ma.streamlit.app/) | 6 embedded problems, 37 tests |
+| C — Repair Triage Agent | [voltex-repair](https://github.com/Milonahmed96/voltex-repair) | [Live](https://voltex-repair-ma.streamlit.app/) | 81% accuracy, 20 scenarios, 49 tests |
+
 
 ---
 
