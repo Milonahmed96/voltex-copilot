@@ -254,6 +254,8 @@ All 33 tests pass without an API key — external dependencies are fully mocked.
 
 This project was built as part of a simulation to develop genuine business understanding of AI engineering in UK retail. The three projects in this series are:
 
+| Project | Repo | Description |
+|---|---|---|
 | B — Contact Centre Co-Pilot | [voltex-copilot](https://github.com/Milonahmed96/voltex-copilot) · [Live demo](https://voltex-copilot-ssckdkfbuq3diathsc66z8.streamlit.app/) | RAG-powered agent assistant, 82% evaluation accuracy |
 | A — ShopFloor Analyst | [voltex-shopfloor](https://github.com/Milonahmed96/voltex-shopfloor) · [Live demo](https://voltex-shopfloor-ma.streamlit.app/) | LLM store operations reasoning, 37 tests |
 | C — Repair Triage Agent | coming soon | LangGraph agentic repair routing |
